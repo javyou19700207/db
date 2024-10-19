@@ -81,7 +81,7 @@
 
 
 "sites": [
-{"key":"豆瓣2","name":"\ud83d\udc9e稳定数据源\ud83d\udc95 10-18 更新 Kstore","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣2","name":"\ud83d\udc9e稳定数据源\ud83d\udc95 10-18 更新 github","type":3,"api":"csp_Douban","searchable":0},
     
 {"key":"快看影视","name":"💡快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"酷看影视","name":"💡酷看┃影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1},
