@@ -177,7 +177,8 @@
 "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/cally040.jar"   },
     
  {    "key": "csp_黑狐",     "name": "💡黑狐┃影院",   "type": 3,   "api": "csp_XBPQ",   "searchable": 1,   "quickSearch": 1,   "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/%E9%BB%91%E7%8B%90.json",     "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/cally040.jar"  },
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/%E9%BB%91%E7%8B%90.json",    
+	 "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/cally040.jar"  },
   
  
 
@@ -252,33 +253,24 @@
 
 //阿里
 
-{"key":"️玩偶哥","name":"❤️玩偶哥
-
-┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/wod.json"},
-{"key":"️玩偶弟","name":"❤️玩偶弟
-
-┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db
-
-/main/lib/wog.json"},
-{"key":"️玩偶姐","name":"❤️玩偶姐
-
-┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db
-
-/main/lib/woj.json"},
-{"key":"️玩偶妹","name":"❤️玩偶妹
-
-┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db
-
-/main/lib/wom.json"},
-{"key":"️玩偶歌","name":"❤️玩偶歌
-
-┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/wou.json"},
-{"key":"云盘搜索","name":"❤️搜索
-
-┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/yps.json"},
-{"key":"Upyunso","name":"❤️云搜┃4K","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
-{"key":"AliPS","name":"❤️盘搜┃4K","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
-{"key":"Yisou","name":"❤️易搜┃4K","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
+{"key":"️玩偶哥","name":"❤️玩偶哥┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,
+	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/wod.json"},
+{"key":"️玩偶弟","name":"❤️玩偶弟┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,
+	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/wog.json"},
+{"key":"️玩偶姐","name":"❤️玩偶姐┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,
+	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/woj.json"},
+{"key":"️玩偶妹","name":"❤️玩偶妹┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,
+	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/wom.json"},
+{"key":"️玩偶歌","name":"❤️玩偶歌┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,
+	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/wou.json"},
+{"key":"云盘搜索","name":"❤️搜索┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/yps.json"},
+{"key":"Upyunso","name":"❤️云搜┃4K","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,
+	"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
+{"key":"AliPS","name":"❤️盘搜┃4K","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,
+	"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
+{"key":"Yisou","name":"❤️易搜┃4K","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,
+	"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
 
 
  //XBPQ
@@ -550,8 +542,10 @@ $2#动漫$4#综艺$3#短剧$34"}},
 
 //短剧
 
-{"key":"无忧短剧","name":"🐞无忧｜短剧","type":3,"api":"csp_Duanj","searchable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20241016.jar","changeable":0,"style":{"type":"rect","ratio":1.433}},
-{"key":"在线短剧","name":"🐞在线｜短剧","type":3,"api":"csp_Duanju","searchable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20241016.jar","changeable":0,"style":{"type":"rect","ratio":1.433}},
+{"key":"无忧短剧","name":"🐞无忧｜短剧","type":3,"api":"csp_Duanj","searchable":1,
+	"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20241016.jar","changeable":0,"style":{"type":"rect","ratio":1.433}},
+{"key":"在线短剧","name":"🐞在线｜短剧","type":3,"api":"csp_Duanju","searchable":1,
+	"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20241016.jar","changeable":0,"style":{"type":"rect","ratio":1.433}},
 {"key":"星芽短剧","name":"🐞星芽｜短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"an","name":"🐞爱你｜短剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/json/an.json"},
 {"key":"hm","name":"🐞河马｜短剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/json/hm.json"},
@@ -605,9 +599,7 @@ $ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动
 
 //py
 
-{"key":"py_cctv","name":"🇨🇳央视片库
-
-┃PY","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,
+{"key":"py_cctv","name":"🇨🇳央视片库┃PY","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,
 "ext":" https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/py_cctv.json "},
 {"key":"py_m1905","name":"🇨🇳电影┃PY","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,
 "ext":" https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/m1905.json "},
