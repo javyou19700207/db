@@ -452,63 +452,44 @@ $2#动漫$4#综艺$3#短剧$34"}},
 {"key": "高中课堂","name": "🅰️高中课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 
 
 1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/高中课堂.json"},
-{"key":"小灯塔科学","name":"🌏小灯塔科学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/li
-
-b/小灯塔科学.json"},
-{"key":"小灯塔地理","name":"🌏小灯塔地理","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/li
-
-b/小灯塔地理.json"},
-{"key":"小灯塔百科","name":"🌏小灯塔百科","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/li
-
-b/小灯塔百科.json"},
-{"key":"小灯塔国学","name":"🌏小灯塔国学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/li
-
-b/小灯塔国学.json"},
-{"key":"儿童口才","name":" 🧒儿童｜口才","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/li
-
-b/儿童口才.json"},
-{"key":"儿童拼音","name":" 🧒儿童｜拼音","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/li
-
-b/儿童拼音.json"},
-{"key":"儿童识字","name":" 🧒儿童｜识字","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/li
-
-b/儿童识字.json"},
-{"key":"儿童思维","name":" 🧒儿童｜思维","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/li
-
-b/儿童思维.json"},
-{"key":"儿童英语","name":" 🧒儿童｜英语","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/li
-
-b/儿童英语.json"},
-{"key":"儿童硬笔","name":" 🧒儿童｜硬笔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/li
-
-b/儿童硬笔.json"},
-{"key":"儿童编程","name":" 🧒儿童｜编程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/li
-
-b/儿童编程.json"},
-{"key":"儿童武术","name":" 🧒儿童｜武术","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/li
-
-b/儿童武术.json"},
-{"key":"csp_BBB","name":"🅱️哔哩套餐🥮","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://8684.kstore.space/javyoudan/lib/哔哩套餐
-
-1.json"},
-{"key": "Bili","name": "🅱️哔哩套餐2","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://8684.kstore.space/javyoudan/lib/哔哩套
-
-餐2.json"},
-{"key": "软件","name": "🅰️软件教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://8684.kstore.space/javyoudan/lib/软件教
-
-程.json"}, 
-{"key": "演唱会","name": "🅰️演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://8684.kstore.space/javyoudan/lib/演唱
-
-会.json"}, 
-{"key": "戏曲","name": "🅰️戏曲合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://8684.kstore.space/javyoudan/lib/戏曲合
-
-集.json"},
-{"key": "合集","name": "💋合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://8684.kstore.space/javyoudan/lib/合
-
-集.json"}, 
-{"key": "MV","name": "🌈歌曲MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 
-
-1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/歌曲MV.json"},
+{"key":"小灯塔科学","name":"🌏小灯塔科学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
+	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/小灯塔科学.json"},
+{"key":"小灯塔地理","name":"🌏小灯塔地理","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
+	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/小灯塔地理.json"},
+{"key":"小灯塔百科","name":"🌏小灯塔百科","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
+	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/小灯塔百科.json"},
+{"key":"小灯塔国学","name":"🌏小灯塔国学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
+	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/小灯塔国学.json"},
+{"key":"儿童口才","name":" 🧒儿童｜口才","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
+	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/儿童口才.json"},
+{"key":"儿童拼音","name":" 🧒儿童｜拼音","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
+	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/儿童拼音.json"},
+{"key":"儿童识字","name":" 🧒儿童｜识字","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
+	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/儿童识字.json"},
+{"key":"儿童思维","name":" 🧒儿童｜思维","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
+	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/儿童思维.json"},
+{"key":"儿童英语","name":" 🧒儿童｜英语","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
+	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/儿童英语.json"},
+{"key":"儿童硬笔","name":" 🧒儿童｜硬笔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
+	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/儿童硬笔.json"},
+{"key":"儿童编程","name":" 🧒儿童｜编程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
+	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/儿童编程.json"},
+{"key":"儿童武术","name":" 🧒儿童｜武术","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
+	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/儿童武术.json"},
+{"key":"csp_BBB","name":"🅱️哔哩套餐🥮","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
+	"ext":"https://8684.kstore.space/javyoudan/lib/哔哩套餐1.json"},
+{"key": "Bili","name": "🅱️哔哩套餐2","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
+	"ext":"https://8684.kstore.space/javyoudan/lib/哔哩套餐2.json"},
+{"key": "软件","name": "🅰️软件教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
+	"ext":"https://8684.kstore.space/javyoudan/lib/软件教程.json"}, 
+{"key": "演唱会","name": "🅰️演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
+	"ext":"https://8684.kstore.space/javyoudan/lib/演唱会.json"}, 
+{"key": "戏曲","name": "🅰️戏曲合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
+	"ext":"https://8684.kstore.space/javyoudan/lib/戏曲合集.json"},
+{"key": "合集","name": "💋合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
+	"ext":"https://8684.kstore.space/javyoudan/lib/合集.json"}, 
+{"key": "MV","name": "🌈歌曲MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
+	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/歌曲MV.json"},
 
   //   
     {     "key": "meowtv_mxmv",     "name": "🌈明星┃ MV ",      "type": 3,      "api": "csp_Bili",
