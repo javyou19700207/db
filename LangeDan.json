@@ -1,7 +1,7 @@
 
 {
   "wallpaper": "./t/",
-  
+
 "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20240604.jar",
  
 
@@ -81,8 +81,20 @@
 
 
 "sites": [
-{"key":"豆瓣2","name":"\ud83d\udc9e稳定数据源\ud83d\udc95 10-22 更新 Github","type":3,"api":"csp_Douban","searchable":0},
-    
+{"key":"豆瓣2","name":"\ud83d\udc9e稳定数据源\ud83d\udc95 10-23 更新 Github","type":3,"api":"csp_Douban","searchable":0},
+  
+  {"key":"萌米","name":"💡萌米┃影视","type":3,"api":"csp_AppTT","timeout":15,"ua": "okhttp/3.15","playerType":1, "jar": 
+"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/tianwei20240603.jar","ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},  
+  {"key":"利播影视","name":"💡利播┃影视","type":3,"api":"csp_Wexlibhd","searchable":1,"changeable":1},
+ {"key":"低端影视","name":"💡低端｜影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1}, 
+  {"key":"追剧影视","name":"💡追剧｜影视","type":3,"api":"csp_AppZJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://z.kzjtv.com/"},
+  {"key":"南瓜影视","name":"💡南瓜┃影视","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"农民影视","name":"💡农民┃影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1},
+{"key":"热播影视","name":"💡热播┃影视","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"比特影视","name":"💡比特｜影视","type":3,"api":"csp_Bttwo","searchable":1,"quickSearch":1,"filterable":1,
+"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20241016.jar"},
+ { "key": "原创",    "name": "🍎原创┃秒播",     "type": 3,    "api": "csp_YCyz",    "timeout": 15,    "searchable": 1,
+      "quickSearch": 1,    "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/tianwei20240603.jar"    }, 
 {"key":"快看影视","name":"💡快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"酷看影视","name":"💡酷看┃影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1},
 {"key":"明日影视","name":"💡明日┃影视","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1},
@@ -90,12 +102,10 @@
  {"key":"看看影视","name":"💡看看┃影视","type":3,"api":"csp_WebIV","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"视频库","name":"💡视频┃影视","type":3,"api":"csp_WebVidHub","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://vidhub1.cc"},
 {"key":"天天影视","name":"💡天天┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"热播影视","name":"💡热播┃影视","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"兄弟影视","name":"💡兄弟┃影视","type":3,"api":"csp_Wexxiongdiys","searchable":1,"changeable":1},
-{"key":"地瓜影视","name":"💡地瓜┃影视","type":3,"api":"csp_Wexdiguatv","searchable":1,"changeable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20240604.jar"},
+{"key":"地瓜影视","name":"💡地瓜┃影视","type":3,"api":"csp_Wexdiguatv","searchable":1,"changeable":1,
+ "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20240604.jar"},
  {"key":"啾啾影视","name":"💡啾啾┃影视","type":3,"api":"csp_Wexjiohub","searchable":1,"changeable":1},
-{"key":"农民影视","name":"💡农民┃影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1},
-{"key":"利播影视","name":"💡利播┃影视","type":3,"api":"csp_Wexlibhd","searchable":1,"changeable":1},
 {"key":"纯享影视","name":"💡纯享┃影视","type":3,"api":"csp_WexF4kvm","searchable":1,"changeable":1},
 {"key":"两个磁力","name":"💡两个┃影视","type":3,"api":"csp_Wexbttwo","searchable":1,"changeable":1},
 {"key":"机器人","name":"💡机器┃影视","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://v.aikanbot.com"},
@@ -103,86 +113,78 @@
  {"key":"junjun","name":"💡君君┃影视","type":3,"searchable":1,"quickSearch":1,"api":"https://xn--dfo-mf3g9f.v.nxog.top/m/js/appys.js","ext":
 
 {"host":"http://122.228.85.203:1000/api.php/app/","*":["https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=","https://jxjson.icu/neibu.php?url="]}}, 
- {"key":"低端影视","name":"💡低端｜影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1}, 
-  {"key":"追剧影视","name":"💡追剧｜影视","type":3,"api":"csp_AppZJ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://z.kzjtv.com/"},
-  {"key":"南瓜影视","name":"💡南瓜┃影视","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0},
-  
-  
-  {"key":"韩小圈","name":"💡韩小｜影视","type":3,"api":"csp_HanXiaoQuan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20241016.jar"},
-{"key":"比特影视","name":"💡比特｜影视","type":3,"api":"csp_Bttwo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20241016.jar"},
-{"key":"忍者影视","name":"💡忍者｜影视","type":3,"api":"csp_AppRZ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz/","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20241016.jar"},
-{"key":"大米星球","name":"💡大米｜影视","type":3,"api":"csp_AppDaMi","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20241016.jar"},
- {"key":"FreeOK","name":"️️💡FreeOK┃影视","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.freeok.lol","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20241016.jar"},
-{"key":"csp_Tvyb","name":"💡云云┃影视","type":3,"api":"csp_Jiaozi","playerType":2,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20241016.jar"},
-{"key":"csp_J","name":"💡饺子┃影视","type":3,"api":"csp_Jiaozi","playerType":2,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20241016.jar"},
-{"key":"韩剧视频","name":"💡韩剧┃影视","type":3,"api":"csp_Wexhanjutv","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou.jar","ext":"http://app.kzjtv.com"},
-{"key":"酷云七七","name":"💡七七┃影视","type":3,"api":"csp_WexKuyun77","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou.jar","ext":"http://app.kzjtv.com"},  
+ 
+  {"key":"韩小圈","name":"💡韩小｜影视","type":3,"api":"csp_HanXiaoQuan","searchable":1,"quickSearch":1,"filterable":1,
+   "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20241016.jar?ref=master"},
+
+{"key":"忍者影视","name":"💡忍者｜影视","type":3,"api":"csp_AppRZ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz/",
+ "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20241016.jar"},
+{"key":"大米星球","name":"💡大米｜影视","type":3,"api":"csp_AppDaMi","searchable":1,"quickSearch":1,"filterable":1,
+ "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20241016.jar"},
+ {"key":"FreeOK","name":"️️💡FreeOK┃影视","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.freeok.lol",
+  "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20241016.jar"},
+{"key":"csp_Tvyb","name":"💡云云┃影视","type":3,"api":"csp_Jiaozi","playerType":2,
+ "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20241016.jar"},
+{"key":"csp_J","name":"💡饺子┃影视","type":3,"api":"csp_Jiaozi","playerType":2,
+ "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20241016.jar"},
+{"key":"韩剧视频","name":"💡韩剧┃影视","type":3,"api":"csp_Wexhanjutv",
+ "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou.jar","ext":"http://app.kzjtv.com"},
+{"key":"酷云七七","name":"💡七七┃影视","type":3,"api":"csp_WexKuyun77",
+ "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou.jar","ext":"http://app.kzjtv.com"},  
  {"key":"腐剧视频","name":"💡腐剧┃影视","type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1}, 
         
  
 //app
 
-{"key":"鸭奈飞","name":"🎃奈飞┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},
-{"key":"酷影视","name":"🎃酷影┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
-{"key": "555yingshi","name":"🎃555┃影视","type":3,"api":"csp_XBPQ","ext": {"分类":"电影$1#电视剧$2#动漫$4","分类url":"https://5moov.vip/vodshow/{cateId}--------{catePg}---.html"}},
+{"key":"鸭奈飞","name":"🎃奈飞┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"https://yanetflix.me/api.php/app/"},
+{"key":"酷影视","name":"🎃酷影┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"https://www.tvkuys.xyz/api.php/app/"},
+{"key": "555yingshi","name":"🎃555┃影视","type":3,"api":"csp_XBPQ",
+ "ext": {"分类":"电影$1#电视剧$2#动漫$4","分类url":"https://5moov.vip/vodshow/{cateId}--------{catePg}---.html"}},
 {"key": "csp_桵空影院","name": "🎃桵空┃影院","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.maigo.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/","分类": "电影$84#综艺$91#大陆剧$81#港台剧$82#海外剧$83#纪录片$88#动漫$1#日剧$32#日漫$46#国漫$47#美漫$85"}},
 {"key":"橙汁","name":"🎃橙汁┃影视","type":3,"api":"csp_XBPQ","ext": {"分类":"短剧$42#电视剧$2#动漫$4#电影$1#综艺$3#纪录片$5","分类url":"https://ork.ink/show/{cateId}--------{catePg}---{year}.html"}},
 {"key":"热播之家","name":"🎃热播┃影视","type":3,"api":"csp_XBPQ","ext": {"分类":"电影$1#电视剧$2#动漫$4#综艺$5","分类url":"https://rebozj.pro/type/{cateId}.html"}},
-
+//{"key":"csp_chrf","name":"🎃小米┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.chrf.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}--//-----{year}.html","分类":"电影&电视剧&综艺&动漫&纪录片&短剧","分类值": "1&2&3&4&28&36"}},
 {"key": "csp_红狐狸影视","name": "🎃红狐狸┃影视","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
 
 //秒播快
   
  
-  { "key": "原创",    "name": "🍎原创┃秒播",     "type": 3,    "api": "csp_YCyz",    "timeout": 15,    "searchable": 1,
-      "quickSearch": 1,    "changeable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/tianwei20240603.jar"    },
+ 
  { "key": "小点",     "name": "🍎小点┃秒播",    "type": 3,      "api": "csp_Xdys",     "searchable": 1,      "quickSearch": 1,
       "filterable": 1,      "changeable": 0, "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/tianwei20240603.jar"    },
  { "key": "atys",      "name": "💡奥特┃影视",      "type": 3,      "api": "csp_Auete",      "searchable": 1,     "quickSearch": 1,
-      "changeable": 1,      "timeout": 15,     "ext": "https://auete.pro/",     
-
+      "changeable": 1,      "timeout": 15,     "ext": "https://auete.pro/",      
 "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/tianwei20240603.jar?ref=master"  }, 
  {  "key": "畅梦",    "name": "🍎畅梦┃秒播",     "type": 3,     "api": " https://8684.kstore.space/javyoudan/lib/drpy2.min.js", "jar": 
-
-"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/dongchenok.jar",      "ext": " https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/changmeng.js?ref=master "   },
- {  "key": "小苹果弹幕",      "name": "🍎苹果┃弹幕",      "type": 3,     "api": "csp_Xpg",
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/dongchenok.jar",      "searchable": 1,      "quickSearch": 1,      
-
-"filterable": 1,
-      "ext": {  "danmu": true    }   },
+"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/dongchenok.jar",   
+  "ext": " https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/changmeng.js?ref=master "   },
+ {  "key": "小苹果弹幕",      "name": "🍎苹果┃弹幕",      "type": 3,     "api": "csp_Xpg",   "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/dongchenok.jar",    "searchable": 1,      "quickSearch": 1,      "filterable": 1,   "ext": {  "danmu": true    }   },
 
 {   "key": "sjys",     "name": "💡视觉┃影视",     "type": 3,      "api": "csp_Xinsj",      "searchable": 1,      "quickSearch": 1,
       "filterable": 1,      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/meowtv20240604.jar"    },
-  //
-  {"key":"星辰影视","name":"💡星辰┃影视","type":3,"api":"csp_WexXingchen","searchable":1,"changeable":1},
+ {"key":"星辰影视","name":"💡星辰┃影视","type":3,"api":"csp_WexXingchen","searchable":1,"changeable":1},
 
 
 // Tianwei
  {   "key": "dgys",      "name": "💡达龟┃影视",      "type": 3,      "api": "csp_XBPQ",      "searchable": 1,
-      "quickSearch": 1,     "filterable": 1,  "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/tianwei20240603.jar",    
+      "quickSearch": 1,     "filterable": 1, 
+  "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/tianwei20240603.jar",    
+  "ext": " https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/dadagui.json "     },
 
-"ext": " https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/dadagui.json "     },
-{"key":"萌米","name":"💡萌米┃影视","type":3,"api":"csp_AppTT","timeout":15,"ua": "okhttp/3.15","playerType":1, "jar": 
-
-"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/tianwei20240603.jar","ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
   
  {  "key": "影探",      "name": "💡影探4K┃影院",      "type": 3,      "api": " https://8684.kstore.space/javyoudan/lib/drpy2.min.js ",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/yt.js", "jar": 
-
-"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/tianwei20240603.jar"    },   
-  {   "key": "csp_sxtv", "name": "💡神仙┃影院",  "type": 3,  "api": "csp_XBPQ",   "searchable": 1,  "quickSearch": 1,  "changeable": 1,   "ext": 
-
-"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/%E7%A5%9E%E4%BB%99.json",      "jar": 
-
-"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/cally040.jar"   },
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/yt.js", 
+  "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/tianwei20240603.jar"    },   
+  {   "key": "csp_sxtv", "name": "💡神仙┃影院",  "type": 3,  "api": "csp_XBPQ",   "searchable": 1,  "quickSearch": 1,  "changeable": 1,  
+   "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/%E7%A5%9E%E4%BB%99.json",    
+   "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/cally040.jar"   },
     
  {    "key": "csp_黑狐",     "name": "💡黑狐┃影院",   "type": 3,   "api": "csp_XBPQ",   "searchable": 1,   "quickSearch": 1,   "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/%E9%BB%91%E7%8B%90.json",    
-	 "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/cally040.jar"  },
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/%E9%BB%91%E7%8B%90.json",   
+  "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/cally040.jar"  },
   
- 
-
-
 { "key": "爱看影视",      "name": "🎦┃爱看┃影视",     "type": 3,     "playerType": "2",     "api": "https://8684.kstore.space/javyoudan/lib/drpy2.min.js",
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/%E7%88%B1%E7%9C%8B.js"    },
  { "key": "csp_xBPQ_九八",      "name": "🎦九八影视",      "type": 3,      "api": "csp_XBPQ",      "searchable": 1,      "quickSearch": 1,
@@ -230,7 +232,8 @@
 
 
 // 磁力
-{"key":"荐片","name":"💘荐片┃磁力","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
+{"key":"荐片","name":"💘荐片┃磁力","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
+ "ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
 {"key":"New6v","name":"💘New6V┃磁力","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com"},
 {"key":"SeedHub","name":"💘SeedHub┃磁力","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"美剧迷","name":"💘美剧迷┃磁力","type":3,"api":"csp_MeijuMi","searchable":1,"quickSearch":1,"filterable":1},
@@ -253,28 +256,31 @@
 
 //阿里
 
-{"key":"️玩偶哥","name":"❤️玩偶哥┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,
-	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/wod.json"},
+{"key":"️玩偶哥","name":"❤️玩偶哥┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":
+ "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/wod.json"},
 {"key":"️玩偶弟","name":"❤️玩偶弟┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,
-	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/wog.json"},
+ "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/wog.json"},
 {"key":"️玩偶姐","name":"❤️玩偶姐┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,
-	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/woj.json"},
+ "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/woj.json"},
 {"key":"️玩偶妹","name":"❤️玩偶妹┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,
-	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/wom.json"},
+ "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/wom.json"},
 {"key":"️玩偶歌","name":"❤️玩偶歌┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,
-	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/wou.json"},
+ "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/wou.json"},
 {"key":"云盘搜索","name":"❤️搜索┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
-	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/yps.json"},
-{"key":"Upyunso","name":"❤️云搜┃4K","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,
-	"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
-{"key":"AliPS","name":"❤️盘搜┃4K","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,
-	"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
-{"key":"Yisou","name":"❤️易搜┃4K","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,
-	"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
+ "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/yps.json"},
+{"key":"Upyunso","name":"❤️云搜┃4K","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
+{"key":"AliPS","name":"❤️盘搜┃4K","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
+{"key":"Yisou","name":"❤️易搜┃4K","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
 
 
  //XBPQ
-{"key":"米米","name":"🧿米米┃影视","type":3,"searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","api":"csp_XBPQ","ext":{"请求头":"User-Agent$okhttp/4.1.0","分类url":"http://124.222.116.5/mb/api.php/provide/vod/?ac=detail&t={cateId};;ak","搜索模式":"1","搜索url":"http://124.222.116.5/mb/api.php/provide/vod/?ac=videolist&wd={wd}","数组二次截取":"","数组":"{\"v&&}","图片":"vod_pic\":\"&&\"","标题":"vod_name\":\"&&\"","副标题":"vod_remarks\":\"&&\"","链接":"http://124.222.116.5/mb/api.php/provide/vod/?ac=detail&ids=+od_id\":&&,","影片类型":"vod_class\"*\"&&\"","影片年代":"vod_year\"*
+{"key":"米米","name":"🧿米米┃影视","type":3,"searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","api":"csp_XBPQ","ext":{"请求头":"User-Agent
+
+$okhttp/4.1.0","分类url":"http://124.222.116.5/mb/api.php/provide/vod/?ac=detail&t={cateId};;ak","搜索模式":"1","搜索
+
+url":"http://124.222.116.5/mb/api.php/provide/vod/?ac=videolist&wd={wd}","数组二次截取":"","数组":"{\"v&&}","图片":"vod_pic\":\"&&\"","标题":"vod_name\":\"&&\"","副标
+
+题":"vod_remarks\":\"&&\"","链接":"http://124.222.116.5/mb/api.php/provide/vod/?ac=detail&ids=+od_id\":&&,","影片类型":"vod_class\"*\"&&\"","影片年代":"vod_year\"*
 
 \"&&\"","影片地区":"vod_area\"*\"&&\"","导演":"vod_director\"*\"&&\"","主演":"vod_actor\"*\"&&\"","简介":"⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️
 
@@ -430,58 +436,47 @@ $2#动漫$4#综艺$3#短剧$34"}},
 //学习
  
 {"key": "学堂","name": "🅰️学堂教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 
-
 1,"ext":"https://8684.kstore.space/javyoudan/lib/学堂教育.json"}, 
 {"key": "少儿","name": "🅰️少儿合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 
-
 1,"ext":"https://8684.kstore.space/javyoudan/lib/少儿合集.json"},
 {"key": "小学课堂","name": "🅰️小学课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 
-
 1,"ext":"https://8684.kstore.space/javyoudan/lib/小学课堂.json"},
 {"key": "初中课堂","name": "🅰️初中课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 
-
 1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/初中课堂.json"},
 {"key": "高中课堂","name": "🅰️高中课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 
-
 1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/高中课堂.json"},
 {"key":"小灯塔科学","name":"🌏小灯塔科学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
-	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/小灯塔科学.json"},
+ "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/小灯塔科学.json"},
 {"key":"小灯塔地理","name":"🌏小灯塔地理","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
-	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/小灯塔地理.json"},
+ "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/小灯塔地理.json"},
 {"key":"小灯塔百科","name":"🌏小灯塔百科","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
-	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/小灯塔百科.json"},
+ "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/小灯塔百科.json"},
 {"key":"小灯塔国学","name":"🌏小灯塔国学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
-	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/小灯塔国学.json"},
+ "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/小灯塔国学.json"},
 {"key":"儿童口才","name":" 🧒儿童｜口才","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
-	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/儿童口才.json"},
+ "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/儿童口才.json"},
 {"key":"儿童拼音","name":" 🧒儿童｜拼音","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
-	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/儿童拼音.json"},
+ "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/儿童拼音.json"},
 {"key":"儿童识字","name":" 🧒儿童｜识字","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
-	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/儿童识字.json"},
+ "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/儿童识字.json"},
 {"key":"儿童思维","name":" 🧒儿童｜思维","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
-	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/儿童思维.json"},
+ "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/儿童思维.json"},
 {"key":"儿童英语","name":" 🧒儿童｜英语","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
-	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/儿童英语.json"},
+ "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/儿童英语.json"},
 {"key":"儿童硬笔","name":" 🧒儿童｜硬笔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
-	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/儿童硬笔.json"},
+ "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/儿童硬笔.json"},
 {"key":"儿童编程","name":" 🧒儿童｜编程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
-	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/儿童编程.json"},
+ "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/儿童编程.json"},
 {"key":"儿童武术","name":" 🧒儿童｜武术","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,
-	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/儿童武术.json"},
+ "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/儿童武术.json"},
 {"key":"csp_BBB","name":"🅱️哔哩套餐🥮","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
-	"ext":"https://8684.kstore.space/javyoudan/lib/哔哩套餐1.json"},
-{"key": "Bili","name": "🅱️哔哩套餐2","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
-	"ext":"https://8684.kstore.space/javyoudan/lib/哔哩套餐2.json"},
-{"key": "软件","name": "🅰️软件教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
-	"ext":"https://8684.kstore.space/javyoudan/lib/软件教程.json"}, 
-{"key": "演唱会","name": "🅰️演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
-	"ext":"https://8684.kstore.space/javyoudan/lib/演唱会.json"}, 
-{"key": "戏曲","name": "🅰️戏曲合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
-	"ext":"https://8684.kstore.space/javyoudan/lib/戏曲合集.json"},
-{"key": "合集","name": "💋合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
-	"ext":"https://8684.kstore.space/javyoudan/lib/合集.json"}, 
-{"key": "MV","name": "🌈歌曲MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
-	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/歌曲MV.json"},
+ "ext":"https://8684.kstore.space/javyoudan/lib/哔哩套餐1.json"},
+{"key": "Bili","name": "🅱️哔哩套餐2","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://8684.kstore.space/javyoudan/lib/哔哩套餐2.json"},
+{"key": "软件","name": "🅰️软件教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://8684.kstore.space/javyoudan/lib/软件教程.json"}, 
+{"key": "演唱会","name": "🅰️演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://8684.kstore.space/javyoudan/lib/演唱会.json"}, 
+{"key": "戏曲","name": "🅰️戏曲合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://8684.kstore.space/javyoudan/lib/戏曲合集.json"},
+{"key": "合集","name": "💋合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://8684.kstore.space/javyoudan/lib/合集.json"}, 
+{"key": "MV","name": "🌈歌曲MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/歌曲MV.json"},
 
   //   
     {     "key": "meowtv_mxmv",     "name": "🌈明星┃ MV ",      "type": 3,      "api": "csp_Bili",
@@ -493,15 +488,14 @@ $2#动漫$4#综艺$3#短剧$34"}},
       "quickSearch": 0,      "changeable": 0,
       "ext": "https://8684.kstore.space/javyoudan/lib/酷奇MV.js"    },
   
-  {"key": "美食","name": "🌈美食","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 
-
-1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/美食.json"},
+  {"key": "美食","name": "🌈美食","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
+   "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/美食.json"},
   
   
    {     "key": "meowtv_dyzb",      "name": "👻斗鱼┃直播",      "type": 3,
       "api": "https://8684.kstore.space/javyoudan/lib/drpy2.min.js",      "searchable": 0,
       "quickSearch": 0,     "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/斗鱼直播.js"   },
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/J斗鱼直播.js"   },
    
   
   //
@@ -526,26 +520,21 @@ $2#动漫$4#综艺$3#短剧$34"}},
 
 
   //学习
-{"key":"csp_FirstAid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","searchable":0,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20241016.jar","quickSearch":0,"style":{"type":"rect","ratio":3.8},"gridview":"0-0-4.1"},
+{"key":"csp_FirstAid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","searchable":0,
+ "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20241016.jar","quickSearch":0,"style":{"type":"rect","ratio":3.8},"gridview":"0-0-4.1"},
 
-{"key":"儿童武术","name":" 🧒武术┃儿童","type":3,"api":"https://xn--tkh-mf3g9f.v.nxog.top/m/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 
+{"key":"儿童武术","name":" 🧒武术┃儿童","type":3,"api":"https://xn--tkh-mf3g9f.v.nxog.top/m/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/儿童武术.json"},
 
-1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/儿童武术.json"},
-
-{"key": "MV","name": "🌈歌曲┃哔哩","type": 3,"api": "https://xn--tkh-mf3g9f.v.nxog.top/m/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 
-
-1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/歌曲MV.json"},
-{"key": "美食","name": "🌈美食┃哔哩","type": 3,"api": "https://xn--tkh-mf3g9f.v.nxog.top/m/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 
-
-1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/美食.json"},
+{"key": "MV","name": "🌈歌曲┃哔哩","type": 3,"api": "https://xn--tkh-mf3g9f.v.nxog.top/m/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/歌曲MV.json"},
+{"key": "美食","name": "🌈美食┃哔哩","type": 3,"api": "https://xn--tkh-mf3g9f.v.nxog.top/m/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/美食.json"},
 
 
 //短剧
 
 {"key":"无忧短剧","name":"🐞无忧｜短剧","type":3,"api":"csp_Duanj","searchable":1,
-	"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20241016.jar","changeable":0,"style":{"type":"rect","ratio":1.433}},
+ "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20241016.jar","changeable":0,"style":{"type":"rect","ratio":1.433}},
 {"key":"在线短剧","name":"🐞在线｜短剧","type":3,"api":"csp_Duanju","searchable":1,
-	"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20241016.jar","changeable":0,"style":{"type":"rect","ratio":1.433}},
+ "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20241016.jar","changeable":0,"style":{"type":"rect","ratio":1.433}},
 {"key":"星芽短剧","name":"🐞星芽｜短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"an","name":"🐞爱你｜短剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/json/an.json"},
 {"key":"hm","name":"🐞河马｜短剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/json/hm.json"},
@@ -575,8 +564,9 @@ url":"https://wap.ijujitv.cc/search/-------------.html?wd=","分类url":"https:/
 
 以免上当受骗。+简介：&&</p>","线路数组":"<aclass=\"hl-tabs-btnhl-slide-swiper\"&&</a>","线路标题":"</i>&nbsp;&&</a>+集","分类url":"https://dingdingdm.com/list/
 
-{cateId}-{catePg}.html","分类":"动漫电影$1#国产动漫$3#日本动漫$2#欧美动漫$4#短剧$20"}},
-	{"key":"萝卜动漫","name":"🤣萝卜┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"影片类型":"分类：&&</a>","简介":"请勿相信影片中的广告，以免上当受骗。+简介：
+{cateId}-{catePg}.html","分类":"动漫电影$1#国产动漫$3#日本动漫$2#欧美动漫$4#短剧$20"}},{"key":"萝卜动漫","name":"🤣萝卜┃动
+
+漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"影片类型":"分类：&&</a>","简介":"请勿相信影片中的广告，以免上当受骗。+简介：
 
 &&</p>","分类url":"https://985dm.com/list/{cateId}-{catePg}.html","分类":"国产动漫$3#日本动漫$2#欧美动漫$4#动漫电影$1#短剧$20"}},
 {"key":"NyaFun动漫","name":"🤣妮呀┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"⚠️特别提醒您⚠️请勿相信影片中的广告
@@ -731,4 +721,3 @@ mk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huatais
 m","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alic
 
 dn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}
-
