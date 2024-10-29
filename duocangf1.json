@@ -2,16 +2,16 @@
   "urls": [
    
  
-    
      {
-      "url": "https://9015.kstore.space/javyoudan/LangeDanjd.json",
-      "name": "简单源①🌟KStore9"
-    },
- {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/LangeDan.json",
       "name": "稳定源①🌟Github"
     },
    
+     {
+      "url": "https://9015.kstore.space/javyoudan/LangeDanjd.json",
+      "name": "简单源①🌟KStore9"
+    },
+
     
     {
       "url": "https://9015.kstore.space/javyoudan/LangeDan.json",
