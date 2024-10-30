@@ -20,14 +20,7 @@
       "type": 0,
       "url": "http://rihou.cc:555/gggg.nzk ",
     "epg":"https://epg.imxd.top/?ch={name}&date={date}",
-"logo": "https://live.fanmingming.com/tv/{name}.png"},
-
-    {
-      "name": "春天下直播仓库🚀点此换仓库🚀",
-      "type": 0,
-      "url": "https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/lives/feihu6.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-   "logo": "https://live.fanmingming.com/tv/{name}.png"},     
+"logo": "https://live.fanmingming.com/tv/{name}.png"}, 
  {
       "name": "天天开心直播仓库🚀点此换仓库🚀",
       "type": 0,
@@ -40,14 +33,6 @@
       "url": "https://2912.kstore.space/520.txt",
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png" },
-  
-  {
-      "name": "IPV4仓库🚀点此换仓库🚀",
-      "type": 0,
-      "url": "https://gongdian.top/tv/gongdian.txt",
-      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.com/tv/{name}.png" },
-  
   {
       "name": "恒星直播仓库🚀点此换仓库🚀",
       "type": 0,
