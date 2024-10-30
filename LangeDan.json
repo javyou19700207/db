@@ -66,7 +66,7 @@
 
 
 "sites": [
-{"key":"豆瓣2","name":"\ud83d\udc9e稳定数据源\ud83d\udc95 10-23 更新 Github","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣2","name":"\ud83d\udc9e稳定数据源\ud83d\udc95 10-30 更新 Github","type":3,"api":"csp_Douban","searchable":0},
   
   {"key":"萌米","name":"💡萌米┃影视","type":3,"api":"csp_AppTT","timeout":15,"ua": "okhttp/3.15","playerType":1, "jar": 
 "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/tianwei20240603.jar","ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},  
@@ -227,7 +227,13 @@
 {"key":"酷吧电影","name":"💘酷吧┃磁力","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"美剧天堂","name":"💘美剧┃磁力","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1},
 
-
+//解析
+   {     "key": "爱奇异",      "name": "🎦爱奇┃解析",     "type": 3,
+      "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",      "ext": "http://kxrj.site:55/lib/爱奇艺.js"    },
+    {     "key": "优酷",     "name": "🎦优酷┃解析",     "type": 3,
+      "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",      "ext": "http://kxrj.site:55/lib/优酷.js"   },
+    {      "key": "腾讯",      "name": "🎦腾讯┃解析",      "type": 3,
+      "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",     "ext": "http://kxrj.site:55/lib/腾讯VIP.js"   },
  
 //采集
 {"key":"红牛资源","name":"🛰️红牛┃采集","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港澳剧","日剧","欧美剧","台湾剧","泰剧","韩剧","纪录片","动漫电影"]},
