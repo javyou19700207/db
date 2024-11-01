@@ -66,7 +66,7 @@
 
 
 "sites": [
-{"key":"豆瓣2","name":"\ud83d\udc9e稳定数据源\ud83d\udc95 10-30 更新 Github","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣2","name":"\ud83d\udc9e稳定数据源\ud83d\udc95 10-30 更新 Ghpcihub","type":3,"api":"csp_Douban","searchable":0},
   
   {"key":"萌米","name":"💡萌米┃影视","type":3,"api":"csp_AppTT","timeout":15,"ua": "okhttp/3.15","playerType":1, "jar": 
 "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/tianwei20240603.jar","ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},  
