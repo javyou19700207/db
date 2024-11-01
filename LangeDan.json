@@ -142,7 +142,7 @@
  { "key": "atys",      "name": "💡奥特┃影视",      "type": 3,      "api": "csp_Auete",      "searchable": 1,     "quickSearch": 1,
       "changeable": 1,      "timeout": 15,     "ext": "https://auete.pro/",      
 "jar":"https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/main/jar/tianwei20240603.jar?ref=master"  }, 
- {  "key": "畅梦",    "name": "🍎畅梦┃秒播",     "type": 3,     "api": " https://8684.kstore.space/javyoudan/lib/drpy2.min.js", "jar": 
+ {  "key": "畅梦",    "name": "🍎畅梦┃秒播",     "type": 3,     "api": " https://9015.kstore.space/javyoudan/lib/drpy2.min.js", "jar": 
 "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/main/jar/dongchenok.jar",   
   "ext": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/main/lib/changmeng.js?ref=master "   },
  {  "key": "小苹果弹幕",      "name": "🍎苹果┃弹幕",      "type": 3,     "api": "csp_Xpg",   "jar": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/main/jar/dongchenok.jar",    "searchable": 1,      "quickSearch": 1,      "filterable": 1,   "ext": {  "danmu": true    }   },
@@ -159,7 +159,7 @@
   "ext": " https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/main/lib/dadagui.json "     },
 
   
- {  "key": "影探",      "name": "💡影探4K┃影院",      "type": 3,      "api": " https://8684.kstore.space/javyoudan/lib/drpy2.min.js ",
+ {  "key": "影探",      "name": "💡影探4K┃影院",      "type": 3,      "api": " https://9015.kstore.space/javyoudan/lib/drpy2.min.js ",
       "ext": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/main/lib/yt.js", 
   "jar": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/main/jar/tianwei20240603.jar"    },   
   {   "key": "csp_sxtv", "name": "💡神仙┃影院",  "type": 3,  "api": "csp_XBPQ",   "searchable": 1,  "quickSearch": 1,  "changeable": 1,  
@@ -170,7 +170,7 @@
       "ext": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/main/lib/%E9%BB%91%E7%8B%90.json",   
   "jar": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/main/jar/cally040.jar"  },
   
-{ "key": "爱看影视",      "name": "🎦┃爱看┃影视",     "type": 3,     "playerType": "2",     "api": "https://8684.kstore.space/javyoudan/lib/drpy2.min.js",
+{ "key": "爱看影视",      "name": "🎦┃爱看┃影视",     "type": 3,     "playerType": "2",     "api": "https://9015.kstore.space/javyoudan/lib/drpy2.min.js",
       "ext": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/main/lib/%E7%88%B1%E7%9C%8B.js"    },
  { "key": "csp_xBPQ_九八",      "name": "🎦九八影视",      "type": 3,      "api": "csp_XBPQ",      "searchable": 1,      "quickSearch": 1,
       "filterable": 1,      "ext": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/main/lib/98%E5%BD%B1%E8%A7%86.json",  
