@@ -471,29 +471,15 @@ $2#动漫$4#综艺$3#短剧$34"}},
 
   //   
     {     "key": "meowtv_mxmv",     "name": "🌈明星┃ MV ",      "type": 3,      "api": "csp_Bili",
-      "searchable": 0,      "quickSearch": 0,      "changeable": 0,
-      "style": {        "type": "rect",        "ratio": 1.597      },
+      "searchable": 0,      "quickSearch": 0,      "changeable": 0,     "style": {        "type": "rect",        "ratio": 1.597      },
       "ext": "https://9015.kstore.space/javyoudan/lib/MTV.json"   },
-   {     "key": "meowtv_kqmv",      "name": "🌈酷奇┃ MV ",      "type": 3,
-      "api": "https://9015.kstore.space/javyoudan/lib/drpy2.min.js",      "searchable": 0,
-      "quickSearch": 0,      "changeable": 0,
-      "ext": "https://9015.kstore.space/javyoudan/lib/酷奇MV.js"    },
-  
+    {      "key": "csp_Kugou",     "name": "🐶酷狗┃音乐",     "type": 3,      "api": "csp_Kugou",      "searchable": 1,     "changeable": 0,
+ "jar": "https://9015.kstore.space/javyoudan/jar/ttkx20241030.jar"  },
+ {     "key": "meowtv_kqmv", "name": "🌈酷奇┃ MV ",    "type": 3,  "api": "http://kxrj.site:55/lib/drpy2.min.js",   "searchable": 0,
+      "quickSearch": 0,     "changeable": 0,   "ext": "https://9015.kstore.space/javyoudan/lib/酷奇MV.js"    },  
   {"key": "美食","name": "🌈美食","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
-   "ext":"https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/main/lib/美食.json"},
-  
-  
-   {     "key": "meowtv_dyzb",      "name": "👻斗鱼┃直播",      "type": 3,
-      "api": "https://9015.kstore.space/javyoudan/lib/drpy2.min.js",      "searchable": 0,
-      "quickSearch": 0,     "changeable": 0,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/main/lib/斗鱼直播.js"   },
-   
-  
-  //
-  
-  
-  
-
+   "ext":"https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/main/lib/美食.json"},         
+  //      
  {     "key": "meowtv_qmty",     "name": "⚽️JRK ┃体育",     "type": 3,
       "api": "https://9015.kstore.space/javyoudan/lib/drpy2.min.js",     "searchable": 0,
       "quickSearch": 0,     "changeable": 0,
