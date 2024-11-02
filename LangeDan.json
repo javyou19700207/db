@@ -486,7 +486,7 @@ $2#动漫$4#综艺$3#短剧$34"}},
    {     "key": "meowtv_dyzb",      "name": "👻斗鱼┃直播",      "type": 3,
       "api": "https://9015.kstore.space/javyoudan/lib/drpy2.min.js",      "searchable": 0,
       "quickSearch": 0,     "changeable": 0,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/main/lib/J斗鱼直播.js"   },
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/main/lib/斗鱼直播.js"   },
    
   
   //
