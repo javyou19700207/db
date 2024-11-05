@@ -1,6 +1,11 @@
 {
   "urls": [
-  
+
+
+    {
+      "url": "https://git.acwing.com/javyou1/1/-/raw/main/LangeDanjd.json",
+      "name": "简单源①🌟Acwing65"
+    },
  
      {
       "url": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/main/LangeDan.json",
@@ -17,14 +22,10 @@
       "url": "https://9015.kstore.space/javyoudan/LangeDan.json",
       "name": "稳定源②🌟KStore9"
     },
-    {
-      "url": "https://git.acwing.com/javyou/db/-/raw/main/LangeDan.json",
-      "name": "稳定源③🌟Acwing"
-    },
    
     {
       "url": " https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/main/112.json",
-      "name": "稳定源⑤ 🌟OUGE弹幕"
+      "name": "稳定源⑤③ 🌟OUGE弹幕"
     },
     
     {
