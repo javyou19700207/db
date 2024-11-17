@@ -1,18 +1,16 @@
 {
   "urls": [
 
-//此为备用单仓，测试自用
+   // 自己测试用
 
-    {
-  "urls": [
- {     "url": "https://d.kstore.dev/download/9015/javyoudan/LangeDanjd.json",     "name": "简单源①🌟KStore9"   },
-      {      "url": "https://git.acwing.com/javyou/db/-/raw/main/LangeDanjd.json"  ,   "name": "简单源④🌟Acwing88"    },
-    
-   {     "url": "https://d.kstore.dev/download/9015/javyoudan/LangeDanjd.json",     "name": "简单源①🌟KStore9"   },
-    
   
+    {      "url": "https://git.acwing.com/javyou/db/-/raw/main/LangeDanjd.json"  ,   "name": "简单源④🌟Acwing88"    },
 
-     {      "url": "https://gitea.com/javy/1/raw/branch/main/jd.json",    "name": "FT源③🌟gitea"  },
+     {     "url": "https://d.kstore.dev/download/9015/javyoudan/LangeDanjd.json",     "name": "简单源①🌟KStore9"   },
+    
+
+      {      "url": "https://d.kstore.dev/download/9015/javyoudan/LangeDan.json",      "name": "稳定源③🌟KStore9"    },
+
 
      {      "url": " https://git.acwing.com/javyou/db/-/blob/main/LangeDan.json",      "name": "稳定源②🌟Acwing88"    },
 
@@ -20,23 +18,24 @@
     
      {     "url": "https://gitea.com/javy/1/raw/branch/main/jdfm.json",    "name": "FM源⑤ 🌟gitea"  },
 
- {    "url": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/refs/heads/main/LangeDan.json",    "name": "简单源⑥🌟Ghub"  },
+   {      "url": "https://gitea.com/javy/1/raw/branch/main/jd.json",    "name": "FT源⑦🌟gitea"  },
 
- 
-         
- {      "url": "https://d.kstore.dev/download/9015/javyoudan/LangeDan.json",      "name": "稳定源③🌟KStore9"    },
+ {    "url": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/refs/heads/main/LangeDan.json",    "name": "简单源⑥🌟Ghub"  },
 
  
          // ①②③④⑤⑥⑦⑧⑨
          
  
+
+//  
+    
+ 
+
+    
      
     {    "url": "https://",      "name": "👇下面收集网络线路👇"    },
 
-     {
-      "url": "http://www.饭太硬.com/tv",
-      "name": "饭太硬"
-    },
+    {      "url": "http://www.饭太硬.com/tv",      "name": "饭太硬"   },
     
     {
       "url": "https://xn--2vc-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌2vc",
