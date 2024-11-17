@@ -13,7 +13,9 @@
     
      {     "url": "https://gitea.com/javy/1/raw/branch/main/jdfm.json",    "name": "FM源⑤ 🌟gitea"  },
 
-{    "url": "https://raw.githubusercontent.com/javyou19700207/db/refs/heads/main/LangeDan.json",    "name": "简单源⑥🌟Ghub"  },
+ {    "url": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/refs/heads/main/LangeDan.json",    "name": "简单源⑥🌟Ghub"  },
+
+ 
          // ①②③④⑤⑥⑦⑧⑨
          
 //    {      "url": "https://9015.kstore.space/javyoudan/LangeDan.json",      "name": "稳定源③🌟KStore9"    },
