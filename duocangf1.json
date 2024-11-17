@@ -1,7 +1,7 @@
 {
   "urls": [
 
- 
+   {     "url": "https://d.kstore.dev/download/9015/javyoudan/LangeDanjd.json",     "name": "简单源①🌟KStore9"   },
     
     {      "url": "https://git.acwing.com/javyou/db/-/raw/main/LangeDanjd.json"  ,   "name": "简单源①🌟Acwing88"    },
 
@@ -20,7 +20,7 @@
          
 //    {      "url": "https://9015.kstore.space/javyoudan/LangeDan.json",      "name": "稳定源③🌟KStore9"    },
 
-//    {     "url": "https://9015.kstore.space/javyoudan/LangeDanjd.json",     "name": "简单源①🌟KStore9"   },
+//  
     
  
 
