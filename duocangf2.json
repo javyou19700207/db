@@ -2,8 +2,11 @@
   "urls": [
 
 //此为备用单仓，测试自用
+
+       {      "url": "https://git.acwing.com/javyou/db/-/raw/main/LangeDanjd.json"  ,   "name": "简单源①🌟Acwing88"    },
     
-   {      "url": "https://git.acwing.com/javyou/db/-/raw/main/LangeDanjd.json"  ,   "name": "简单源①🌟Acwing88"    },
+  {     "url": "https://d.kstore.dev/download/9015/javyoudan/LangeDanjd.json",     "name": "简单源①🌟KStore9"   },
+    
 
      {      "url": "https://gitea.com/javy/1/raw/branch/main/jd.json",    "name": "FT源③🌟gitea"  },
 
@@ -13,16 +16,14 @@
     
      {     "url": "https://gitea.com/javy/1/raw/branch/main/jdfm.json",    "name": "FM源⑤ 🌟gitea"  },
 
-
  {    "url": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/refs/heads/main/LangeDan.json",    "name": "简单源⑥🌟Ghub"  },
 
-         // ①②③④⑤⑥⑦⑧⑨
-
-//    {      "url": "https://9015.kstore.space/javyoudan/LangeDan.json",      "name": "稳定源③🌟KStore9"    },
-
-//    {     "url": "https://9015.kstore.space/javyoudan/LangeDanjd.json",     "name": "简单源①🌟KStore9"   },
-     
+      {      "url": "https://d.kstore.dev/download/9015/javyoudan/LangeDan.json",      "name": "稳定源③🌟KStore9"    },
     
+ 
+         // ①②③④⑤⑥⑦⑧⑨
+         
+ 
      
     {    "url": "https://",      "name": "👇下面收集网络线路👇"    },
 
