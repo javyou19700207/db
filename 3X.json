@@ -1,6 +1,6 @@
 {
   "wallpaper": "./t/",
-  "spider": "./ou20240604.jar;md5;92ac6f5136c5ce9885fe60122c545434",
+  "spider": "./jar/ou20240604.jar;md5;92ac6f5136c5ce9885fe60122c545434",
   "lives": [
     {
       "name": "直播仓库",
