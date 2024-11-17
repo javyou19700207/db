@@ -1,0 +1,70 @@
+{
+  "urls": [
+
+// 给低版本安卓机V4 专用
+    
+    {      "url": "https://git.acwing.com/javyou/db/-/raw/main/LangeDanjd.json"  ,   "name": "简单源①🌟Acwing88"    },
+
+     {      "url": "https://gitea.com/javy/1/raw/branch/main/jd.json",    "name": "FT源③🌟gitea"  },
+
+     {      "url": " https://git.acwing.com/javyou/db/-/blob/main/LangeDan.json",      "name": "稳定源②🌟Acwing88"    },
+
+       {      "url": "https://git.acwing.com/javyou/db/-/raw/main/112.json",    "name": "稳定源④ 🌟弹幕Acw"  },
+    
+     {     "url": "https://gitea.com/javy/1/raw/branch/main/jdfm.json",    "name": "FM源⑤ 🌟gitea"  },
+
+ {    "url": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/refs/heads/main/LangeDan.json",    "name": "简单源⑥🌟Ghub"  },
+
+ 
+         // ①②③④⑤⑥⑦⑧⑨
+         
+//    {      "url": "https://9015.kstore.space/javyoudan/LangeDan.json",      "name": "稳定源③🌟KStore9"    },
+
+//    {     "url": "https://9015.kstore.space/javyoudan/LangeDanjd.json",     "name": "简单源①🌟KStore9"   },
+    
+ 
+
+    
+     
+    {    "url": "https://",      "name": "👇下面收集网络线路👇"    },
+
+     {
+      "url": "http://www.饭太硬.com/tv",
+      "name": "饭太硬"
+    },
+    
+    {
+      "url": "https://xn--2vc-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌2vc",
+      "name": "欧歌"
+    },
+    {
+      "url": "http://肥猫.com",
+      "name": "肥猫"
+    },
+    {
+      "url": "http://ok321.top/ok",
+      "name": "OK猫"
+    },
+   
+    {
+      "url": "http://kxrj.site:55/天天开心",
+      "name": "天天开心"
+    },
+    {
+      "url": "https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master",
+      "name": "月牙猫春天下"
+    },
+    {
+      "url": "http://meowtv.cn/tv",
+      "name": "喵影视"
+    },
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "name": "香雅情"
+    },
+    {
+      "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+      "name": "少儿频道"
+    }
+  ]
+}
