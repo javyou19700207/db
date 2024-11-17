@@ -6,7 +6,7 @@
   //  简单源
 "sites": [
   
-{"key":"豆瓣1","name":"\ud83d\udc9e简单源FT\ud83d\udc95 11-08 Acw  更新", "jar": 
+{"key":"豆瓣1","name":"\ud83d\udc9e简单源FT\ud83d\udc95 11-17 Ghub 更新", "jar": 
  "https://git.acwing.com/javyou/db/-/raw/main/jar/fan20240424douok.jar", "type":3,"api":"csp_Douban","searchable":0},
   
  {"api":"https://git.acwing.com/javyou/db/-/raw/main/lib/zbzdb1.js",  "ext":"https://git.acwing.com/javyou/db/-/raw/main/zbzdblist.txt",
@@ -121,7 +121,7 @@
   
 "lives": [
    {     "name": "💝浪子直播仓库🚀点此换仓库🚀",    "type": 0,
-      "url": "https://ghp.ci/ https://raw.githubusercontent.com/javyou19700207/db/refs/heads/main/codeok.json",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/refs/heads/main/codeok.json",
      "playerType": 1,  "ua": "okhttp/3.15",    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
   "logo": "https://live.fanmingming.com/tv/{name}.png"} ,     
 
