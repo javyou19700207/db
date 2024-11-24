@@ -72,7 +72,7 @@
 {"key":"豆瓣2","name":"\ud83d\udc9e稳定数据源\ud83d\udc95 10-30 更新 Ghub","type":3,"api":"csp_Douban","searchable":0},
   
    {"api":"https://git.acwing.com/javyou/db/-/raw/main/lib/zbzdb1.js",
-   "ext":"https://git.acwing.com/javyou/db/-/raw/main/zbzdblist.txt",
+   "ext":"https://git.acwing.com/javyou/db/-/raw/main/lib/zbzdblist.txt",
    "filterable":0,
    // "jar":"https://git.acwing.com/javyou/db/-/raw/main/jar/spiderdbzzb.jar",
    "key":"直点播","name":"电视合集┃直播","quickSearch":0,"searchable":1,"type":3},
