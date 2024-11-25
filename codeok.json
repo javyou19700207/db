@@ -74,10 +74,6 @@ CCTV14,https://api.livednow.org/migu/624878440?sign=gAAAAABnJcJqbiZjvH8WPpn2MSC9
 CCTV15,https://api.livednow.org/migu/673168223?sign=gAAAAABnJcJqidnXewNhy-gri2ybb9iscI03y5nc62Syy1VqIhpbG4NsKVFHcgll52_xUKgwrWb5UR4xUTuxZnXcZ0qybFuneRF7vganvFXXcsbCxEG1p3RlEZw2hsCJ2G64570EsLkHymrjb0T7NBsJQyYJplJRLJFEd2gRpP40XLLJYTwJTmIC9b2eeLAZy4YEIn8-g7uBCctAPZtXqq8lS4vOcoHLSQ%3D%3D
 CCTV17,https://api.livednow.org/migu/673168256?sign=gAAAAABnJcJqaH7zxsZ2sHzgLIrp3fHULs5VLTwRm5kvc_YZnCZDZdFCwKXL_yaXA5nFcCZPD0omVJwDapyQUilo6R4kQgEmlWfnDyA0UbxOdEjCzJ9SHIiV_53r4aaArZ0IL_Aq0Mhm7cM6wcQ1EeLovgqiDPnCeUF2j3_KgX74Wh-ZpYuDKkQNsfBaJ1_P09_8SukvS2dsHXG-Tkr2RbVUU9z4qmS7iw%3D%3D
 
-CCTV2,http://119.41.169.132:4000/udp/239.253.64.13:5140
-CCTV12,http://119.41.169.132:4000/udp/239.253.64.20:5140
-CCTV13,http://119.41.169.132:4000/udp/239.253.64.21:5140
-CCTV17,http://119.41.169.132:4000/udp/239.253.64.53:5140
 
 CCTV1,http://kxrj.site:1333/86/mg.php?id=cctv1
 CCTV2,http://kxrj.site:1333/86/mg.php?id=cctv2
@@ -482,6 +478,10 @@ CGTN,http://119.41.169.132:4000/udp/239.253.64.17:5140
 青海卫视,http://119.41.169.132:4000/udp/239.253.64.46:5140
 中国气象,http://119.41.169.132:4000/udp/239.253.64.79:5140
 
+CCTV2,http://119.41.169.132:4000/udp/239.253.64.13:5140
+CCTV12,http://119.41.169.132:4000/udp/239.253.64.20:5140
+CCTV13,http://119.41.169.132:4000/udp/239.253.64.21:5140
+CCTV17,http://119.41.169.132:4000/udp/239.253.64.53:5140
 
 
 
@@ -925,12 +925,7 @@ CCTV9,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010217/1.m3u8
 
 
 
-
-
-
-
-
-💝港澳AK☘️,#genre#
+💝港澳AK,#genre#
 中天新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天亚洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
@@ -988,7 +983,7 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 无线卫星新闻台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 
 
-👉港澳2,#genre#
+👉港澳2☘️,#genre#
 
 中天新闻台,https://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv009
@@ -1757,7 +1752,7 @@ UniverTV,http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
 
 
 
-🏆体育咪咕📺,#genre#
+🏆体育咪咕,#genre#
 
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
@@ -1821,7 +1816,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 咪咕直播-2-4K,http://111.13.111.242/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 
 
-🎬影斗堆虎🚀,#genre#
+🎬影斗堆虎,#genre#
 
 
 第一滴血全集,http://maomao.kandiantv.cn/yy.php?id=1354932355
@@ -2119,7 +2114,7 @@ CCtv6影院代,https://epg.pw/stream/753fe6b20478c17a39f0c17d3c8d98a74cd5890a6e4
 
 
 
-💡V6轮播,#genre#
+💡V6轮播📺,#genre#
 
 东北热剧,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010021/1.m3u8$海南移动V6
 古装剧场,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010004/1.m3u8$海南移动V6
@@ -2532,7 +2527,7 @@ Y+剧场台,http://kxrj.site:998/123/mg.php?id=yjjc
 牛群冯巩两个弄潮儿,https://vd3.bdstatic.com/mda-mkqdhm17rs7198m6/hd/cae_h264/1637859905115117938/mda-mkqdhm17rs7198m6.mp4?pd=19&vt=1
 孔云龙扒马褂,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fg10000c7la4l3c77u5vs0abgs0&ratio=720p&line=0
 
-🌃春晚现场,#genre#
+🌃春晚🚀,#genre#
 春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 春晚1985,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
 春晚1986,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
