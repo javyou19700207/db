@@ -4,7 +4,7 @@
 #==========================================================
 "sites":[
 		
-{"key":"豆瓣","name":"影视】","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"assets://lib/tokenm.json$$$assets://lib/douban.json"},
+{"key":"豆瓣","name":"肥羊影视本地","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"assets://lib/tokenm.json$$$assets://lib/douban.json"},
 
 {"key":"直播转点播","name":"影视👉肥羊☞点播","type": 3,"searchable":0,"api":"assets://lib/live2vod.js","ext":"assets://lib/feimaolive.json"},
 
