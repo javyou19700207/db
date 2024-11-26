@@ -327,7 +327,7 @@
             "name": "🐉爱奇艺○解析",
             "type": 3, "playerType": 1,
             "api": "assets://api/JS/drpy2.min.js",
-            "ext": "assets://apiJS/爱奇艺.js"
+            "ext": "assets://api/JS/爱奇艺.js"
         },
         {
             "key": "腾讯视频",
