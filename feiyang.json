@@ -6,7 +6,7 @@
 		
 {"key":"豆瓣","name":"肥羊影视本地","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"assets://lib/tokenm.json$$$assets://lib/douban.json"},
 
-{"key":"直播转点播","name":"影视👉肥羊☞点播","type": 3,"searchable":0,"api":"assets://lib/live2vod.js","ext":"assets://lib/feimaolive.json"},
+{"key":"直播转点播","name":"直播👉点源进入","type": 3,"searchable":0,"api":"assets://lib/live2vod.js","ext":"assets://lib/feimaolive.json"},
 
 
 //=======================================================
@@ -60,12 +60,7 @@
         }
       }
     },
-    {
-      "key":"csp_Nkdy",
-      "name": "🏔️┃耐看┃影视",
-      "type": 3,"jar": "assets://lib/PandaQ241122.jar",
-      "api": "csp_Nkdy"
-    },
+   
     {
       "key":"csp_Kanke",
       "name": "🛳️┃看客┃影视",
@@ -78,13 +73,7 @@
       "type": 3,"jar": "assets://lib/PandaQ241122.jar",
       "api": "csp_Dadag"
     },
-    {
-      "key":"csp_Qiyou",
-      "name": "🥝┃奇优┃影视",
-      "type": 3,"jar": "assets://lib/PandaQ241122.jar",
-      "api": "csp_Qiyou",
-      "ext": "http://www.dyxz2.com/"
-    },
+   
     {
       "key":"csp_Fantuan",
       "name": "🍙┃饭团┃影视",
@@ -136,15 +125,7 @@
       "api": "csp_Gz360",
       "playerType": 2
     },
-    {
-      "key":"csp_LiteApple",
-      "name": "🍎┃苹果┃影视",
-      "type": 3,"jar": "assets://lib/PandaQ241122.jar",
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+   
 
     {
       "key":"比特",
@@ -182,13 +163,7 @@
       "filterable": 1,
       "ext": "https://www.kkys02.com"
     },
-    {
-      "key":"csp_Xb6v",
-      "name": "🐤┃6V磁力┃影视",
-      "type": 3,"jar": "assets://lib/PandaQ241122.jar",
-      "api": "csp_Xb6v",
-      "playerType": "2"
-    },
+ 
     {
       "key":"低端",
       "name": "🛣┃低端┃影视",
@@ -197,14 +172,149 @@
       "api": "http://js.xn--z7x900a.com/js/lib/drpy2.min.js",
       "ext": "http://js.xn--z7x900a.com/js/ddys.js"
     },
+   
+   {
+      "key":"Lib",
+      "name": "🌟立播┃秒播",
+      "type": 3,"jar": "assets://lib/fty.jar",
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
     {
-      "key":"虎虎",
-      "name": "🐯┃虎虎┃影视",
-      "type": 3,"jar": "assets://lib/PandaQ241122.jar",
-      "api": "csp_XBPQ",
-      "ext": "http://我不是.肥猫.live/json/虎虎.json"
+      "key":"文采",
+      "name": "💮文采┃秒播",
+      "type": 3,"jar": "assets://lib/fty.jar",
+      "api": "csp_Jpys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key":"糯米",
+      "name": "🍓糯米┃秒播",
+      "type": 3,"jar": "assets://lib/fty.jar",
+      "api": "csp_Nmyswv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key":"zxzj",
+      "name": "🍊在线┃秒播",
+      "type": 3,"jar": "assets://lib/fty.jar",
+      "api": "csp_Zxzj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzjhd.com/"
+    },
+    {
+      "key":"苹果",
+      "name": "🍎苹果┃不卡",
+      "type": 3,"jar": "assets://lib/fty.jar",
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
 
+    {
+      "key":"木星",
+      "name": "🌞木星┃多线",
+      "type": 3,"jar": "assets://lib/fty.jar",
+      "api": "csp_AppSx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"
+    },
+   
+    {
+      "key":"热播",
+      "name": "📺热播┃多线",
+      "type": 3,"jar": "assets://lib/fty.jar",
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+    },
+    
+    {
+      "key":"萌米",
+      "name": "👀萌米┃多线",
+      "type": 3,"jar": "assets://lib/fty.jar",
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+    },
+    {
+      "key":"欢视",
+      "name": "👓欢视┃多线",
+      "type": 3,"jar": "assets://lib/fty.jar",
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
+    },
+    {
+      "key":"可可_2",
+      "name": "👻可可┃多线",
+      "type": 3,"jar": "assets://lib/fty.jar",
+      "api": "csp_Kekys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key":"贱贱",
+      "name": "🐭贱贱┃P2P",
+      "type": 3,"jar": "assets://lib/fty.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": "1",
+      "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jp.js"
+    },
+    {
+      "key":"Auete",
+      "name": "🏝奥特┃无广",
+      "type": 3,"jar": "assets://lib/fty.jar",
+      "api": "csp_Auete",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://auete.com/"
+    },
+    {
+      "key":"新6V",
+      "name": "🧲新6V┃磁力",
+      "type": 3,"jar": "assets://lib/fty.jar",
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://www.xb6v.com/"
+    },
+	#==========================================================
+#以下学习
     {
       "key":"csp_BookTing",
       "name": "📚┃听书┃音频",
@@ -272,190 +382,8 @@
 #==========================================================
 #饭太硬线1126
 
-    {
-      "key":"抠搜",
-      "name": "🍄抠抠┃搜搜",
-      "type": 3,"jar": "assets://lib/fty.jar",
-      "api": "csp_KkSs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key":"UC",
-      "name": "🌈优汐┃搜搜",
-      "type": 3,"jar": "assets://lib/fty.jar",
-      "api": "csp_UuSs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key":"Lib",
-      "name": "🌟立播┃秒播",
-      "type": 3,"jar": "assets://lib/fty.jar",
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key":"文采",
-      "name": "💮文采┃秒播",
-      "type": 3,"jar": "assets://lib/fty.jar",
-      "api": "csp_Jpys",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key":"糯米",
-      "name": "🍓糯米┃秒播",
-      "type": 3,"jar": "assets://lib/fty.jar",
-      "api": "csp_Nmyswv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key":"zxzj",
-      "name": "🍊在线┃秒播",
-      "type": 3,"jar": "assets://lib/fty.jar",
-      "api": "csp_Zxzj",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzjhd.com/"
-    },
-    {
-      "key":"苹果",
-      "name": "🍎苹果┃不卡",
-      "type": 3,"jar": "assets://lib/fty.jar",
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-
-    {
-      "key":"木星",
-      "name": "🌞木星┃多线",
-      "type": 3,"jar": "assets://lib/fty.jar",
-      "api": "csp_AppSx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"
-    },
-    {
-      "key":"速播",
-      "name": "⏮️速播┃多线",
-      "type": 3,"jar": "assets://lib/fty.jar",
-      "api": "csp_AppSx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvEpcoxb5sQXd8GDXUTvbqvx0peQcuZ7GvQ0UGD/a2mS238cHqYkiBgwCduCiYrTZJtbwdDUt/L2w/LOWADxikKl6I8Cqz6OD9lIxS2anA6ytO6"
-    },
-    {
-      "key":"热播",
-      "name": "📺热播┃多线",
-      "type": 3,"jar": "assets://lib/fty.jar",
-      "api": "csp_AppTT",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-    },
-    {
-      "key":"南瓜",
-      "name": "🎃南瓜┃多线",
-      "type": 3,"jar": "assets://lib/fty.jar",
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key":"萌米",
-      "name": "👀萌米┃多线",
-      "type": 3,"jar": "assets://lib/fty.jar",
-      "api": "csp_AppTT",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-    },
-    {
-      "key":"欢视",
-      "name": "👓欢视┃多线",
-      "type": 3,"jar": "assets://lib/fty.jar",
-      "api": "csp_AppTT",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
-    },
-    {
-      "key":"可可_2",
-      "name": "👻可可┃多线",
-      "type": 3,"jar": "assets://lib/fty.jar",
-      "api": "csp_Kekys",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key":"贱贱",
-      "name": "🐭贱贱┃P2P",
-      "type": 3,"jar": "assets://lib/fty.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jp.js"
-    },
-    {
-      "key":"Auete",
-      "name": "🏝奥特┃无广",
-      "type": 3,"jar": "assets://lib/fty.jar",
-      "api": "csp_Auete",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://auete.com/"
-    },
-    {
-      "key":"新6V",
-      "name": "🧲新6V┃磁力",
-      "type": 3,"jar": "assets://lib/fty.jar",
-      "api": "csp_SixV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://www.xb6v.com/"
-    },
+   
+ 
     {
       "key":"Dm84",
       "name": "🚌巴士┃动漫",
@@ -734,68 +662,7 @@
 
 
 
-//============================================================
-//============================================================
-    {
-      "key":"csp_Wwys",
-      "name": "🐶汪汪┃1080P",
-      "type": 3,
-      "playerType": 1,
-      "changeable": 0,
-      "api": "csp_Wwys",
-      "ext": "https://www.wwgz.cn/",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730855920785/1106.jar"
-    },
-    {
-      "key":"csp_JPYY",
-      "name": "🥇文采┃1080P",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_Jpyy",
-      "playerType": 0,
-      "filterable": 1,
-      "ext": "",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730855920785/1106.jar"
-    },
-    {
-      "key":"天天_1",
-      "name": "☁️天天┃1080P",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 2,
-      "ext": "baHR0cDovL29wLnlzZHFqcy5jbg==",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"
-    },
-
-//=============================================
-
-{"key":"小马影视","name":"🏭小马影视","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://mas.szyyds.cn/api.php/app/"},
-
-{"key":"天天_2","name":"🏭天天开心","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn"},
-
-{"key":"索尼","name":"🏭索尼资源","type":1,"playerType":2,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","记录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","足球","影视解说","国产动漫"]},
-
-{"key":"非凡","name":"🏭非凡影视","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"],"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/lllyin/assets/master/fm.png;md5;945ad30d5255359385ba59b8fb061bb7"},
-
-//===========================================
-
-{"key":"csp_优质","name":"短剧™①福","type":1,"api":"https://api.1080zyku.com/inc/apijson.php?ac=list","searchable":1,"quickSearch":0,"filterable":1,"categories":["短剧大全","福利","恐怖片","动作片","科幻片","喜剧片","犯罪片","动画片","国产动画片","日韩动画片"]},
-
-{"key":"火狐资源","name":"短剧™②伦","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories":["短剧","伦理片","恐怖片","动作片","科幻片","喜剧片","犯罪片","冒险片","韩剧","欧美剧","内地剧"]},
-
-{"key":"速博资源","name":"短剧™③漫","type":1,"api":"https://subocaiji.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["短剧","伦理片","恐怖片","动作片","科幻片","喜剧片","动漫电影","中国动漫","日本动漫","欧美动漫","韩剧","美剧","大陆剧"]},
-
-{"key":"csp_无尽","name":"短剧™④线","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","categories":["女频恋爱","反转爽剧","脑洞悬疑","年代穿越","古装仙侠","现代都市","短剧"],"searchable":1,"quickSearch":0,"filterable":1},
-
-
-
-//========================================
-
-{"key":"csp_影视","name":"反馈QQ群:118020615","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","categories":["女频恋爱","反转爽剧","脑洞悬疑","年代穿越","古装仙侠","现代都市","短剧"],"searchable":1,"quickSearch":0,"filterable":1}
-
-
-//=========================================
+  
 
 ],
 
