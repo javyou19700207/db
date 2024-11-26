@@ -12,7 +12,7 @@
 			"epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
 			"logo": "https://gongdian.top/logo/tv/{name}.png"		},
    {      "name": "浪子直播",
-      "type": 0,
+      "type": 0, "playerType": 2,
       "url": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/refs/heads/main/codeok.json",
       "ua": "cmcc",
         "epg": "http://epg.hackserver.net/epg.php?ch={name}&date={date}",
@@ -24,8 +24,10 @@
 		"url": "http://aktv.top/live.txt",
 		"epg": "https://epg.112114.eu.org/?ch={name}&date={date}"	},
 
-	                 {                                               "name":"影视👉范明明V6","type": 0,"playerType": 2,
-                                                "url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+	                 {            "name":"影视👉范明明V6",
+				 "type": 0,
+				 "playerType": 2,
+                           "url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u",
 			"epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
 			"logo": "https://gongdian.top/logo/tv/{name}.png"                               },
 
