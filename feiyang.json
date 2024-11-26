@@ -1,5 +1,6 @@
 {
-    "spider": "assets://lib/spider.jar",
+    "spider": "assets://lib/pg.jar",
+	//"spider": "assets://lib/spider.jar",
     "wallpaper": "",
     "logo": "assets://lib/logo.jpg",
     "lives": [
