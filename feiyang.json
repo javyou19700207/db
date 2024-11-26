@@ -357,15 +357,7 @@
         ]
       }
     },
-    {
-      "key":"酷奇_1",
-      "name": "🎤┃酷奇┃MV",
-      "type": 3,"jar": "assets://lib/PandaQ241122.jar",
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js"
-    },
+   
 
     {
       "key":"聚短视频js",
