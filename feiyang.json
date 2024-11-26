@@ -1,6 +1,6 @@
 {
     "spider":"assets://lib/pg.jar",
-     "logo": "assets://lib/logo.png",
+     "logo": "",
 #==========================================================
 "sites":[
 		
