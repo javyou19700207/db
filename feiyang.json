@@ -313,6 +313,57 @@
       "changeable": 0,
       "ext": "https://www.xb6v.com/"
     },
+  {
+            "key": "三六零",
+            "name": "🐉三六零○解析",
+            "type": 3, "playerType": 1,
+            "api": "assets:/lib/drpy2.min.js",
+            "ext": "assets:/lib/三六零.js"
+        },
+        {
+            "key": "爱奇艺",
+            "name": "🐉爱奇艺○解析",
+            "type": 3, "playerType": 1,
+            "api": "assets:/lib/drpy2.min.js",
+            "ext": "assets:/lib/爱奇艺.js"
+        },
+        {
+            "key": "腾讯视频",
+            "name": "🐉腾讯○解析",
+            "type": 3, "playerType": 1,
+            "api": "assets:/lib/drpy2.min.js",
+            "ext": "assets:/lib/腾讯视频.js"
+        },
+        {
+            "key": "优酷视频",
+            "name": "🐉优酷○解析",
+            "type": 3, "playerType": 1,
+            "api": "assets:/lib/drpy2.min.js",
+            "ext": "assets:/lib/优酷视频.js"
+        },
+        {
+            "key": "芒果视频",
+            "name": "🐉芒果○解析",
+            "type": 3, "playerType": 1,
+            "api": "assets:/lib/drpy2.min.js",
+            "ext": "assets:/lib/芒果视频.js"
+        },
+        {
+            "key": "搜狗视频",
+            "name": "🐉搜狗○解析",
+            "type": 3, "playerType": 1,
+            "api": "assets:/lib/drpy2.min.js",
+            "ext": "assets:/lib/搜狗视频.js"
+        },
+        {
+            "key": "哔哩视频",
+            "name": "🐉哔哩○解析",
+            "type": 3, "playerType": 1,
+            "api": "assets:/lib/drpy2.min.js",
+            "ext": "assets:/lib/哔哩视频.js"
+        },
+
+	
 	#==========================================================
 #以下学习
     {
