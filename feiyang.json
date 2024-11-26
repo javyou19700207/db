@@ -40,26 +40,7 @@
       "api": "csp_AppRZ",
       "ext": "http://rzys.xyz/"
     },
-    {
-      "key":"csp_Netfixtv",
-      "name": "💌┃️至臻┃影视",
-      "type": 3,"jar": "assets://lib/PandaQ241122.jar",
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "ext": {
-        "site_urls": [
-          "https://xiaomiai.site"
-        ],
-        "url_key": "Netfixtv",
-        "token": "",
-        "ucCookie": "",
-        "quarkCookie": "",
-        "threadinfo": {
-          "chunksize": 450,
-          "threads": 10
-        }
-      }
-    },
+   
    
     {
       "key":"csp_Kanke",
