@@ -742,7 +742,7 @@
 			"name": "影视👉肥羊直播",
 			"type": 0,
 			"playerType": 2,
-			"url": "./feiyanZB.json",
+			"url": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/refs/heads/main/feiyanZB.json",
 			"ua": "okhttp/4.1.0",
 			"epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
 			"logo": "https://gongdian.top/logo/tv/{name}.png"
