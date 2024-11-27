@@ -4,7 +4,7 @@
 #=================此源仅对内置PG包文件的壳子有效=========================================
 "sites":[
 		
-{"key":"豆瓣","name":"\ud83d\udc9e肥羊影视本壳\ud83d\udc95 11-27 更新Gcp","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"assets://lib/tokenm.json$$$assets://lib/douban.json"},
+{"key":"豆瓣","name":"\ud83d\udc9e肥羊影视本地壳\ud83d\udc95 11-27 更新Ghp","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"assets://lib/tokenm.json$$$assets://lib/douban.json"},
 
 {"key":"直播转点播","name":"转成直播👉点击源后选择进入","type": 3,"searchable":0,
 	"api":"assets://lib/live2vod.js",
