@@ -1,9 +1,9 @@
 {
   "urls": [
 
- //启动饭，给不用看直播的用
+ //启动肥羊，测试
 
- {      "url": "http://www.饭太硬.com/tv",      "name": "饭太硬"   },
+ {      "url": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/refs/heads/main/feiyang.json",      "name": "肥羊含"   },
     
   {     "url": "https://d.kstore.dev/download/9015/javyoudan/LangeDanjd.json",     "name": "简单源①🌟KStore9"   },
     
