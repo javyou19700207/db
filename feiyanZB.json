@@ -1,7 +1,7 @@
 
 
 
-央视频道,#genre#
+央视itv,#genre#
 CCTV1,http://127.0.0.1:35455/itv/1000000005000265001.m3u8?cdn=ystenlive$ITV HEVC
 CCTV2,http://127.0.0.1:35455/itv/1000000001000023315.m3u8?cdn=ystenlive$ITV HEVC
 CCTV3,http://127.0.0.1:35455/itv/1000000005000265003.m3u8?cdn=ystenlive$ITV HEVC
@@ -66,7 +66,7 @@ CCTV15,http://127.0.0.1:35455/ysptp/cctv15.m3u8
 CCTV16,http://127.0.0.1:35455/ysptp/cctv16.m3u8
 CCTV17,http://127.0.0.1:35455/ysptp/cctv17.m3u8
 
-卫视频道,#genre#
+卫视itv,#genre#
 
 湖南卫视,http://127.0.0.1:35455/itv/1000000005000265024.m3u8?cdn=ystenlive$ITV HEVC
 江苏卫视,http://127.0.0.1:35455/itv/1000000005000265030.m3u8?cdn=ystenlive$ITV HEVC
