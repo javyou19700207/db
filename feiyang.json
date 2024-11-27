@@ -1,7 +1,7 @@
 {
     "spider":"assets://lib/pg.jar",
      "logo": "",
-#==========================================================
+#=================此源仅对内置PG包文件的壳子有效=========================================
 "sites":[
 		
 {"key":"豆瓣","name":"肥羊影视本地","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"assets://lib/tokenm.json$$$assets://lib/douban.json"},
