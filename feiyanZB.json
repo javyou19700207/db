@@ -2734,8 +2734,6 @@ Y+剧场台,http://kxrj.site:998/123/mg.php?id=yjjc
 
 
 
-
-
 综合频道,#genre#
 中国教育电视台-1,http://127.0.0.1:35455/itv/5000000002000002652.m3u8?cdn=bestzb
 中国教育电视台-4,http://127.0.0.1:35455/itv/5000000011000031126.m3u8?cdn=bestzb
@@ -2900,12 +2898,12 @@ iHOT-爱院线,http://127.0.0.1:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
 咪咕视频_8M1080_易视腾-6,http://127.0.0.1:35455/itv/1000000006000270006.m3u8?cdn=ystenlive
 
 
-// 凤凰频道TPTV,#genre#
+TPTV(停),#genre#
 凤凰卫视资讯,http://127.0.0.1:35455/tptv/HD-10000k-1080P-fhzixun5s.m3u8
 凤凰卫视中文,http://127.0.0.1:35455/tptv/HD-10000k-1080P-fhchinese5s.m3u8
 凤凰卫视香港,http://127.0.0.1:35455/tptv/HD-10000k-1080P-fhhongkong5s.m3u8
 
-央视TPTV,#genre#
+
 CCTV1,http://127.0.0.1:35455/tptv/G_CCTV-1-AVS-4K264.m3u8
 CCTV2,http://127.0.0.1:35455/tptv/G_CCTV-2-HD-265-8M.m3u8
 CCTV3,http://127.0.0.1:35455/tptv/G_CCTV-3-AVS-4K264.m3u8
@@ -2946,7 +2944,7 @@ CCTV-怀旧剧场,http://127.0.0.1:35455/tptv/GITV-JS-37.m3u8
 CCTV-电视指南,http://127.0.0.1:35455/tptv/GITV-JS-39.m3u8
 CETV早期教育,http://127.0.0.1:35455/tptv/G_CETV-ZQJY-CQ.m3u8
 
-卫视TPTV,#genre#
+
 东方卫视,http://127.0.0.1:35455/tptv/G_DONGFANG-HD-265-8M.m3u8
 深圳卫视,http://127.0.0.1:35455/tptv/G_SHENZHEN-HD-265-8M.m3u8
 天津卫视,http://127.0.0.1:35455/tptv/G_TIANJIN-HD-265-8M.m3u8
@@ -2976,7 +2974,7 @@ CETV早期教育,http://127.0.0.1:35455/tptv/G_CETV-ZQJY-CQ.m3u8
 上海纪实人文,http://127.0.0.1:35455/tptv/H265-5500k-1080P-shanghaijishi.m3u8
 newtv炫舞未来,http://127.0.0.1:35455/tptv/HD-4000k-1080P-xwwl.m3u8
 
-4K及其他TPTV,#genre#
+
 4K60PSDR-H264-AAC测试,https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/sdr4kvideo/index.m3u8
 4K60PHLG-HEVC-EAC3测试,https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/hlg4kvideo/index.m3u8
 纯享4K,http://127.0.0.1:35455/tptv/HD-20M-2160P-chunxiang4k.m3u8
