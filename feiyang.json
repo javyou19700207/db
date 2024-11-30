@@ -10,6 +10,8 @@
 	"api":"assets://lib/live2vod.js",
 	"ext":"assets://lib/feimaolive.json"},
 
+ {  "key": "alllive",     "name": "📽️一直播┃直播",     "type": 3,  "jar": "assets://lib/fty241108.jar",   "api": "csp_Alllive",
+      "playerType": 2,      "searchable": 0,      "quickSearch": 0,      "changeable": 0   },
 
  {
       "key":"Lib",
