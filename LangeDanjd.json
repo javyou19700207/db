@@ -5,7 +5,7 @@
   //  简单源
 "sites": [
   
-{"key":"豆瓣1","name":"\ud83d\udc9e简单源FT\ud83d\udc95 11-08 Acw  更新", "jar": 
+{"key":"豆瓣1","name":"\ud83d\udc9e简单源FT\ud83d\udc95 11-08 Ghp  更新", "jar": 
  "https://git.acwing.com/javyou/db/-/raw/main/jar/fan20240424douok.jar", "type":3,"api":"csp_Douban","searchable":0},
   
  {"api":"https://git.acwing.com/javyou/db/-/raw/main/lib/zbzdb1.js",  
