@@ -12,8 +12,7 @@
  "ext":"https://git.acwing.com/javyou/db/-/raw/main/zbzdblist.txt",
    "filterable":0,  "key":"直转点播","name":"电视合集┃直播","quickSearch":0,"searchable":1,"type":3},
 
-     {  "key": "alllive",     "name": "📽️一直播┃直播",     "type": 3,     "api": "csp_Alllive",
-      "playerType": 2,      "searchable": 0,      "quickSearch": 0,      "changeable": 0   },
+    
 { “key”： “alllive”， “name”： “📽️一直播┃直播”， “type”： 3， “api”： “csp_Alllive”，
 “playerType”： 2， “searchable”： 0， “quickSearch”： 0， “changeable”： 0 }，
 
