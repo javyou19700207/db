@@ -1,14 +1,14 @@
 {
   "urls": [
+    {    "url": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/refs/heads/main/LangeDanjd.json",    "name": "简单源③🌟Ghub"  },
+   {    "url": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/refs/heads/main/LangeDan.json",    "name": "稳定源④🌟Ghub"  },
 
-    {    "url": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/refs/heads/main/LangeDanjd.json",    "name": "简单源⑥🌟Ghub"  },
 
-     {    "url": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/refs/heads/main/LangeDan.json",    "name": "稳定源⑥🌟Ghub"  },
+  {     "url": "https://gitea.com/javy/1/raw/branch/main/LangeDanjd.json",    "name": "简单源① 🌟gitea"  },
 
- {     "url": "https://gitea.com/javy/1/raw/branch/main/LangeDanjd.json",    "name": "简单源⑤ 🌟gitea"  },
+   {      "url": "https://gitea.com/javy/1/raw/branch/main/LangeDan.json",    "name": "稳定源②🌟gitea"  },
 
-   {      "url": "https://gitea.com/javy/1/raw/branch/main/LangeDan.json",    "name": "稳定源⑦🌟gitea"  },
-
+ 
  //  {     "url": "https://d.kstore.dev/download/9015/javyoudan/LangeDanjd.json",     "name": "简单源①🌟KStore9"   },
     
  //   {      "url": "https://git.acwing.com/javyou/db/-/raw/main/LangeDanjd.json"  ,   "name": "简单源④🌟Acwing88"    },
