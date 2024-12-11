@@ -4,7 +4,7 @@
 #=================此源仅对内置PG包文件的壳子有效=========================================
 "sites":[
 		
-{"key":"豆瓣","name":"\ud83d\udc9e半本地壳\ud83d\udc95 11-27 更新Ghp","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"assets://lib/tokenm.json$$$assets://lib/douban.json"},
+{"key":"豆瓣","name":"\ud83d\udc9e半本地壳\ud83d\udc95 12-11 更新Ghp","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"assets://lib/tokenm.json$$$assets://lib/douban.json"},
 
 {"key":"直播转点播","name":"转直播👉选择源↙进入","type": 3,"searchable":0,
 	"api":"assets://lib/live2vod.js",
@@ -565,131 +565,25 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    {
-      "key":"Aid",
-      "name": "🚑急救┃教学",
-      "type": 3,"jar": "assets://lib/fty241108.jar",
-      "api": "csp_FirstAid",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      }
-    },
-
- {
-      "key": "Bili",
-      "name": "🅱哔哔合集┃弹幕",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/bilibili.json"
-      }
-    },
-    {
-      "key": "Biliych",
-      "name": "🅱哔哔演唱会┃弹幕",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/biliych.json"
-      }
-    },
-    {
-      "key": "dr_兔小贝",
-      "name": "📚儿童┃启蒙",
-      "type": 3,
-      "api": "https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "少儿教育",
-      "name": "📚少儿┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/少儿教育.json"
-      }
-    },
-    {
-      "key": "小学课堂",
-      "name": "📚小学┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/小学课堂.json"
-      }
-    },
-    {
-      "key": "初中课堂",
-      "name": "📚初中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/初中课堂.json"
-      }
-    },
-    {
-      "key": "高中教育",
-      "name": "📚高中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/高中课堂.json"
-      }
-    }
-
+	
+ {"key":"csp_FirstAid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"style":{"type":"rect","ratio":3.8},"gridview":"0-0-4.1"},
+{"key": "学堂","name": "🅰️学堂┃教育","type": 3,"api": "https://xn--tkh-mf3g9f.v.nxog.top/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m//Bilibili/学堂教育.json"}, 
+{"key": "少儿","name": "🅰️少儿┃合集","type": 3,"api": "https://xn--tkh-mf3g9f.v.nxog.top/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m//Bilibili/少儿合集.json"},
+{"key": "小学课堂","name": "🅰️小学┃课堂","type": 3,"api": "https://xn--tkh-mf3g9f.v.nxog.top/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m//Bilibili/小学课堂.json"},
+{"key": "初中课堂","name": "🅰️初中┃课堂","type": 3,"api": "https://xn--tkh-mf3g9f.v.nxog.top/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m//Bilibili/初中课堂.json"},
+{"key": "高中课堂","name": "🅰️高中┃课堂","type": 3,"api": "https://xn--tkh-mf3g9f.v.nxog.top/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m//Bilibili/高中课堂.json"},
+{"key":"儿童口才","name":" 🧒口才┃儿童","type":3,"api":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m//Bilibili/儿童口才.json"},
+{"key":"儿童拼音","name":" 🧒拼音┃儿童","type":3,"api":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m//Bilibili/儿童拼音.json"},
+{"key":"儿童识字","name":" 🧒识字┃儿童","type":3,"api":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m//Bilibili/儿童识字.json"},
+{"key":"儿童思维","name":" 🧒思维┃儿童","type":3,"api":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m//Bilibili/儿童思维.json"},
+{"key":"儿童英语","name":" 🧒英语┃儿童","type":3,"api":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m//Bilibili/儿童英语.json"},
+{"key":"儿童硬笔","name":" 🧒硬笔┃儿童","type":3,"api":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m//Bilibili/儿童硬笔.json"},
+{"key":"儿童编程","name":" 🧒编程┃儿童","type":3,"api":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m//Bilibili/儿童编程.json"},
+{"key":"儿童武术","name":" 🧒武术┃儿童","type":3,"api":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m//Bilibili/儿童武术.json"},
+{"key":"csp_BBB","name":"🅱️套餐┃哔哩","type":3,"api":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m//Bilibili/哔哩套餐1.json"},
+{"key": "Bili","name": "🅱️套餐2┃哔哩","type": 3,"api": "https://xn--tkh-mf3g9f.v.nxog.top/m//js/drpy2.min.js",
+"searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,
+"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m//Bilibili/哔哩套餐2.json"}
 
 
   
