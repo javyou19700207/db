@@ -629,6 +629,7 @@
       "key": "少儿教育",
       "name": "📚少儿┃教育",
       "type": 3,
+	     "jar": "assets://lib/fty241108.jar",
       "api": "csp_Bili",
       "style": {
         "type": "rect",
@@ -637,7 +638,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-	    "jar": "assets://lib/fty241108.jar",
+	   
       "ext": {
         "json": "https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/少儿教育.json"
       }
