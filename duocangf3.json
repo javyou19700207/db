@@ -1,9 +1,9 @@
 {
   "urls": [
 
- //启动肥羊，内置在萌新影视手机版内
+ //启动半本地肥羊，内置在萌新，飞速影视内
 
- { "url": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/refs/heads/main/feiyang.json",  "name": "内肥羊①🌟GHUB"  },
+ { "url": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/refs/heads/main/feiyang.json",  "name": "半本地①🌟GHUB"  },
     
   {  "url": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/refs/heads/main/LangeDanjd.json",  "name": "简单源②🌟Ghub" },
  {  "url": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/refs/heads/main/LangeDan.json",  "name": "稳定源③🌟Ghub" },
