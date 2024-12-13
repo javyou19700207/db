@@ -641,64 +641,27 @@
 			"epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
 			"logo": "https://gongdian.top/logo/tv/{name}.png"
 		},
-		
+		{     "name": "猫影视直播仓库🚀点此换仓库🚀",     "type": 0,     "url": "http://rihou.cc:555/gggg.nzk ",
+    "epg":"https://epg.imxd.top/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+ 
+ {     "name": "天天开心直播仓库🚀点此换仓库🚀",   "type": 0,   "url": "http://rihou.cc:55/lib/kx2024.txt",
+      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",    "logo": "https://live.fanmingming.com/tv/{name}.png" },
+    {     "name": "三林仓库🚀点此换仓库🚀",   "type": 0,
+      "url": "https://jxnklgb.serv00.net/ku9/live/live.txt",
+      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",  
+        "logo": "https://live.fanmingming.com/tv/{name}.png" },
+  
+  {    "name": "恒星直播仓库🚀点此换仓库🚀",    "type": 0,      "url": "http://yuhuahx.com/dsj66.txt",
+      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",      "logo": "https://live.fanmingming.com/tv/{name}.png" },     
+   
+{"name":"欧歌直播仓库🚀点此换仓库🚀","type":0,"url":"https://tv.nxog.top/m/tv/","playerType":1, "ua": "okhttp/3.12.13",
+"epg":"https://epg.imxd.top/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
 
-	{
-		"name": "影视👉AKTV在线",
-		"type": 0,
-		"playerType": 2,
-		"url": "http://aktv.top/live.txt",
-		"epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+ {"name":"萌苹果机直播仓库🚀点此换仓库🚀","type":0,"url":"https://git.acwing.com/javyou/db/-/raw/main/apple.txt",
+"playerType":1, "ua": "okhttp/3.12.13","epg":"https://epg.imxd.top/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},  
 
-	},
-
-	                 {
-                                               "name":"影视👉范明明V6","type": 0,"playerType": 2,
-                                                "url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-			"epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-			"logo": "https://gongdian.top/logo/tv/{name}.png"
-                                 },
-
-
-		{
-			"name": "影视👉yuanzl77",
-			"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u",
-			"playerType": 2,
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-
-		{
-			"name": "影视👉肥羊虎牙",
-			"type": 0,
-			"playerType": 2,
-			"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/huyayqk.m3u",
-			"ua": "okhttp/4.1.0",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-
-		},
-
-		{
-			"name": "影视👉肥羊斗鱼",
-			"type": 0,
-			"playerType": 2,
-			"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/douyuyqk.m3u",
-			"ua": "okhttp/4.1.0",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-
-		}, 
-                               
-                                {
-			"name": "影视👉肥羊YY",
-			"type": 0,
-			"playerType": 2,
-			"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/yylunbo.m3u",
-			"ua": "okhttp/4.1.0",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-
-		}
-
-
-
+ {  "name": "范明明源直播仓库🚀点此换仓库🚀", 
+      "type": 0,      "url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType": 1,      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",  "logo": "https://live.fanmingming.com/tv/{name}.png"} 
 	]
 }
