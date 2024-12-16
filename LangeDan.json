@@ -66,7 +66,7 @@
 
 
 "sites": [
-{"key":"豆瓣2","name":"\ud83d\udc9e稳定数据源\ud83d\udc95 10-30 更新 Ghub","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣2","name":"此源将被屏蔽，在设置-个性设置-下拉到底 重置APP换","type":3,"api":"csp_Douban","searchable":0},
   
    {"api":"https://git.acwing.com/javyou/db/-/raw/main/lib/zbzdb1.js",
    "ext":"https://git.acwing.com/javyou/db/-/raw/main/zbzdblist.txt",
