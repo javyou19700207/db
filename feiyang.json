@@ -8,7 +8,7 @@
 
 {"key":"直播转点播","name":"转直播👉选择源↙进入","type": 3,"searchable":0,
 	"api":"assets://lib/live2vod.js",
-	"ext":"assets://lib/feimaolive.json"},
+	"ext":"https://codeberg.org/javyou/1/raw/branch/main/zbzdblist.txt"},
 
  {  "key": "alllive",     "name": "📽️一直播┃直播",     "type": 3,  "jar": "assets://lib/fty241108.jar",   "api": "csp_Alllive",
       "playerType": 2,      "searchable": 0,      "quickSearch": 0,      "changeable": 0   },
