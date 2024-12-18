@@ -1,6 +1,8 @@
 {  "wallpaper": "./t/",
   
-"spider": "https://codeberg.org/javyou/1/raw/branch/main/jar/fan20241108.jar",  
+"spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/fan20241108.jar",  
+//	"spider": "https://codeberg.org/javyou/1/raw/branch/main/jar/fan20241108.jar",  
+
 
   //  简单源
 "sites": [
