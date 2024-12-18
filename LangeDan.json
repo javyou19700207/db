@@ -1,8 +1,8 @@
 
 {
   "wallpaper": "./t/",
-  "spider": "https://codeberg.org/javyou/1/raw/branch/main/jar/ou20240604.jar;md5;92ac6f5136c5ce9885fe60122c545434",
-//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20240604.jar",
+ // "spider": "https://codeberg.org/javyou/1/raw/branch/main/jar/ou20240604.jar;md5;92ac6f5136c5ce9885fe60122c545434",
+  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/ou20240604.jar",
  
 
 "lives": [
