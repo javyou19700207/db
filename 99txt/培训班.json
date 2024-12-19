@@ -1,0 +1,21 @@
+//如果数据加载不出来请开启VPN
+{
+    "防封地址": "https://www.mnpxb6.cc",
+    "主页url": "https://www.mnpxb95.buzz/index.php/vod/type/id/20.html",
+    "首页": "",
+    "二次截取": ">全部</a>&&<span>首</span></a",
+    "数组": "column is-half-mobile is-one-quarter-desktop vod-item-box is-half-touch&&/a>",
+    "图片": "data-original=\"&&\"",
+    "标题": "alt=\"&&\"",
+    "副标题": "",
+    "简介": "description\"*content=\"&&",
+    "链接": "href=\"&&\"",
+    "跳转播放链接": "var player_*url\":\"&&\"",
+    "搜索模式": "1",
+    "搜索url": "https://www.mnpxb95.buzz/index.php/vod/search/page/{pg}/wd/{wd}.html",
+    "免嗅": "0",
+    "嗅探词": ".m3u8#index.m3u8#https://vip3.slslbf.com/#https://vip1.slbfsl.com/",
+    "分类url": "https://www.mnpxb95.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+    "分类": "精品推荐&传媒出品&国产色情&91探花",
+    "分类值": "20&21&23&24"
+}
