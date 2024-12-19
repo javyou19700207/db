@@ -1,0 +1,10 @@
+[
+  {
+    "name": "local",
+    "url": "./99.json"
+  },
+  {
+    "name": "Ghub源",
+    "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/99txt/99.json"
+  }
+]
