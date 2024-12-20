@@ -4,8 +4,8 @@
     "url": "https://d.kstore.dev/download/9015/javyoudan/codeok.json"
   },
   {
-    "name": "codeberg源",
-    "url": "https://codeberg.org/javyou/1/raw/branch/main/codeok.json"
+    "name": "serv00源",
+    "url": "https://javyou.serv00.net/codeok.json"
   },
   {
     "name": "天天开心",
@@ -15,10 +15,7 @@
     "name": "三林直播",
     "url": "https://jxnklgb.serv00.net/ku9/live/live.txt"
   },
-  {
-    "name": "恒星直播",
-    "url": "http://yuhuahx.com/dsj66.txt"
-  },
+ 
   {
     "name": "Ghub源",
     "url": "https://github.moeyy.xyz//https://raw.githubusercontent.com/javyou19700207/db/main/codeok.json"
