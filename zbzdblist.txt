@@ -1,12 +1,15 @@
 [
+
+ {
+    "name": "Serv源",
+    "url": "https://javyou.serv00.net/codeok.json"
+  },
+  
   {
     "name": "k9源",
     "url": "https://d.kstore.dev/download/9015/javyoudan/codeok.json"
   },
-  {
-    "name": "serv00源",
-    "url": "https://javyou.serv00.net/codeok.json"
-  },
+ 
   {
     "name": "天天开心",
     "url": "http://rihou.cc:55/lib/kx2024.txt"
@@ -15,14 +18,17 @@
     "name": "三林直播",
     "url": "https://jxnklgb.serv00.net/ku9/live/live.txt"
   },
- 
+  {
+    "name": "恒星直播",
+    "url": "http://yuhuahx.com/dsj66.txt"
+  },
   {
     "name": "Ghub源",
     "url": "https://github.moeyy.xyz//https://raw.githubusercontent.com/javyou19700207/db/main/codeok.json"
   },
   {
     "name": "范明明源",
-    "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u"
+    "url": "https://fanmingming.com/txt?url=https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u "
   },
   {
     "name": "猫影视",
