@@ -1,7 +1,7 @@
 {  "wallpaper": "./t/",
   
 "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/fan20241108.jar",  
-//	"spider": "https://codeberg.org/javyou/1/raw/branch/main/jar/fan20241108.jar",  
+
 
 
   //  简单源
@@ -9,11 +9,10 @@
   
 {"key":"豆瓣1","name":"\ud83d\udc95简单源 Ghub\ud83d\udc95", "jar": 
  "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/fan20240424douok.jar",
-//  "https://codeberg.org/javyou/1/raw/branch/main/jar/fan20240424douok.jar",
+
 	"type":3,"api":"csp_Douban","searchable":0},
   
- {"api":"https://codeberg.org/javyou/1/raw/branch/main/lib/zbzdb1.js",  
- "ext":"https://codeberg.org/javyou/1/raw/branch/main/zbzdblist.txt",
+{"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/zbzdb1.js",  "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/zbzdblist.txt",
    "filterable":0,  "key":"直转点播","name":"电视合集┃直播","quickSearch":0,"searchable":1,"type":3},
 
      {  "key": "alllive",     "name": "📽️一直播┃直播",     "type": 3,     "api": "csp_Alllive",
@@ -127,35 +126,72 @@
 ],
   
 "lives": [
-   {     "name": "💝浪子GHUB直播仓库🚀点此换仓库🚀",    "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/codeok.json",
-     "playerType": 1,  "ua": "okhttp/3.15",    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+  {
+      "name": "💝浪子K9直播仓库🚀点此换仓库🚀",
+      "type": 0,
+      "url": "https://d.kstore.dev/download/9015/javyoudan/codeok.json",
+     "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+  "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"} ,     
+   {
+      "name": "💝浪子Serv00直播仓库🚀点此换仓库🚀",
+      "type": 0,
+      "url": "https://javyou.serv00.net/codeok.json",
+     "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
   "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"} ,     
 
-{     "name": "猫影视直播仓库🚀点此换仓库🚀",     "type": 0,     "url": "http://rihou.cc:555/gggg.nzk ",
-    "epg":"https://epg.imxd.top/?ch={name}&date={date}","logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"},
- 
- {     "name": "天天开心直播仓库🚀点此换仓库🚀",   "type": 0,   "url": "http://rihou.cc:55/lib/kx2024.txt",
-      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",    "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png" },
-    {     "name": "三林仓库🚀点此换仓库🚀",   "type": 0,
+{
+      "name": "猫影视直播仓库🚀点此换仓库🚀",
+      "type": 0,
+      "url": "http://rihou.cc:555/gggg.nzk ",
+    "epg":"https://epg.imxd.top/?ch={name}&date={date}",
+"logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"},
+
+ {
+      "name": "天天开心直播仓库🚀点此换仓库🚀",
+      "type": 0,
+      "url": "http://rihou.cc:55/lib/kx2024.txt",
+      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png" },
+      
+   {     "name": "三林仓库🚀点此换仓库🚀",   "type": 0,
       "url": "https://jxnklgb.serv00.net/ku9/live/live.txt",
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",  
         "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png" },
-  
-  {    "name": "恒星直播仓库🚀点此换仓库🚀",    "type": 0,      "url": "http://yuhuahx.com/dsj66.txt",
-      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",      "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png" },     
+  {
+      "name": "恒星直播仓库🚀点此换仓库🚀",
+      "type": 0,
+      "url": "http://yuhuahx.com/dsj66.txt",
+      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png" },     
    
-{"name":"欧歌直播仓库🚀点此换仓库🚀","type":0,"url":"https://tv.nxog.top/m/tv/","playerType":1, "ua": "okhttp/3.12.13",
-"epg":"https://epg.imxd.top/?ch={name}&date={date}","logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"},
+{"name":"欧歌直播仓库🚀点此换仓库🚀",
+"type":0,
+"url":"https://tv.nxog.top/m/tv/","playerType":1,
+ "ua": "okhttp/3.12.13",
+"epg":"https://epg.imxd.top/?ch={name}&date={date}",
+"logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"},
 
- {"name":"萌苹果机直播仓库🚀点此换仓库🚀","type":0,"url":"https://codeberg.org/javyou/1/raw/branch/main/apple.txt",
-"playerType":1, "ua": "okhttp/3.12.13","epg":"https://epg.imxd.top/?ch={name}&date={date}","logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"},  
+ {"name":"萌苹果机直播仓库🚀点此换仓库🚀",
+"type":0,
+"url":"https://d.kstore.dev/download/9015/javyoudan/apple.txt",
+"playerType":1,
+ "ua": "okhttp/3.12.13",
+"epg":"https://epg.imxd.top/?ch={name}&date={date}",
+"logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"},  
+ 
+     {  "name": "范明明源直播仓库🚀点此换仓库🚀", 
+      "type": 0,
+      "url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+ "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+  "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"} 
+  ],
 
- {  "name": "范明明源直播仓库🚀点此换仓库🚀", 
-      "type": 0,      "url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType": 1,      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",  "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"} 
-  ],  
-  
     
   
 "parses":
