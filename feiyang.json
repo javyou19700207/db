@@ -1,14 +1,15 @@
 {
     "spider":"assets://lib/pg.jar",
-     "logo": "",
+     "logo": "",  "wallpaper": "https://深色壁纸.xxooo.cf/",
 #=================此源仅对内置PG包文件的壳子有效=========================================
 "sites":[
-		
-{"key":"豆瓣","name":"\ud83d\udc9e半本地壳\ud83d\udc95 12-11 更新Ghp","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"assets://lib/tokenm.json$$$assets://lib/douban.json"},
+    
+{"key":"豆瓣","name":"\ud83d\udc9e半本地壳\ud83d\udc95 12-11 更新Ghub","type":3,"api":"csp_Douban","searchable":0,
+"changeable":1,"indexs":1,"ext":"assets://lib/tokenm.json$$$assets://lib/douban.json"},
 
 {"key":"直播转点播","name":"转直播👉选择源↙进入","type": 3,"searchable":0,
-	"api":"assets://lib/live2vod.js",
-	"ext":"https://codeberg.org/javyou/1/raw/branch/main/zbzdblist.txt"},
+  "api":"assets://lib/live2vod.js",
+  "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/zbzdblist.txt"},
 
  {  "key": "alllive",     "name": "📽️一直播┃直播",     "type": 3,  "jar": "assets://lib/fty241108.jar",   "api": "csp_Alllive",
       "playerType": 2,      "searchable": 0,      "quickSearch": 0,      "changeable": 0   },
@@ -129,8 +130,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jp.js"
+      "api": "https://github.moeyy.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jp.js"
     },
     {
       "key":"Auete",
@@ -301,7 +302,7 @@
    
   
 
-	
+  
       {
             "key": "三六零",
             "name": "🐉三六零○解析",
@@ -352,8 +353,8 @@
             "ext": "assets://api/JS/哔哩视频.js"
         },
 
-	
-	#==========================================================
+  
+  #==========================================================
 #以下学习
     {
       "key":"csp_BookTing",
@@ -469,8 +470,8 @@
       "key":"310js",
       "name": "⚽ 310┃看球",
       "type": 3,"jar": "assets://lib/fty241108.jar",
-      "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/310直播.js",
+      "api": "https://github.moeyy.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/310直播.js",
       "style": {
         "type": "list"
       },
@@ -482,8 +483,8 @@
       "key":"Jrsjs",
       "name": "⚽ Jrs┃球迷",
       "type": 3,"jar": "assets://lib/fty241108.jar",
-      "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jrk.js",
+      "api": "https://github.moeyy.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jrk.js",
       "style": {
         "type": "list"
       },
@@ -495,8 +496,8 @@
       "key":"酷奇_2",
       "name": "🎤酷奇┃MV",
       "type": 3,"jar": "assets://lib/fty241108.jar",
-      "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/酷奇MV.js",
+      "api": "https://github.moeyy.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/酷奇MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -518,15 +519,15 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/MTV.json"
+        "json": "https://github.moeyy.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/MTV.json"
       }
     },
     {
       "key":"虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,"jar": "assets://lib/fty241108.jar",
-      "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js",
-      "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js",
+      "api": "https://github.moeyy.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js",
+      "ext": "https://github.moeyy.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -540,8 +541,8 @@
       "key":"斗鱼js",
       "name": "🐟斗鱼┃直播",
       "type": 3,"jar": "assets://lib/fty241108.jar",
-      "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
+      "api": "https://github.moeyy.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -555,8 +556,8 @@
       "key":"有声小说js",
       "name": "🎧有声┃小说",
       "type": 3,"jar": "assets://lib/fty241108.jar",
-      "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/有声小说吧.js",
+      "api": "https://github.moeyy.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/有声小说吧.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -565,9 +566,9 @@
       "quickSearch": 0,
       "changeable": 0
     },
-	
+  
  {"key":"csp_FirstAid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"style":{"type":"rect","ratio":3.8},"gridview":"0-0-4.1"},
-{"key": "学堂","name": "🅰️学堂┃教育","type": 3,"api": "https://xn--tkh-mf3g9f.v.nxog.top/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m//Bilibili/学堂教育.json"}, 
+{"key": "学堂","name": "🅰️学堂┃教育","type": 3,"api": "https://xn--tkh-mf3g9f.v.nxog.top/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m//Bilibili/学堂教育.json"},
 {"key": "少儿","name": "🅰️少儿┃合集","type": 3,"api": "https://xn--tkh-mf3g9f.v.nxog.top/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m//Bilibili/少儿合集.json"},
 {"key": "小学课堂","name": "🅰️小学┃课堂","type": 3,"api": "https://xn--tkh-mf3g9f.v.nxog.top/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m//Bilibili/小学课堂.json"},
 {"key": "初中课堂","name": "🅰️初中┃课堂","type": 3,"api": "https://xn--tkh-mf3g9f.v.nxog.top/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--tkh-mf3g9f.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m//Bilibili/初中课堂.json"},
@@ -631,17 +632,13 @@
 //=========================================================
 
 
-	"lives": [
-{
-			"name": "💝浪子直播仓库🚀点此换仓库🚀",
-			"type": 0,
-			"playerType": 2,
-			"url": "https://git.acwing.com/javyou/db/-/raw/main/codeok.json",
-			"ua": "okhttp/4.1.0",
-			"epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-			"logo": "https://gongdian.top/logo/tv/{name}.png"
-		},
-		{     "name": "猫影视直播仓库🚀点此换仓库🚀",     "type": 0,     "url": "http://rihou.cc:555/gggg.nzk ",
+  "lives": [
+ {     "name": "💝浪子K9直播仓库🚀点此换仓库🚀",    "type": 0,
+      "url": "https://d.kstore.dev/download/9015/javyoudan/codeok.json",
+     "playerType": 1,  "ua": "okhttp/3.15",    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+  "logo": "https://live.fanmingming.com/tv/{name}.png"} ,     
+
+{     "name": "猫影视直播仓库🚀点此换仓库🚀",     "type": 0,     "url": "http://rihou.cc:555/gggg.nzk ",
     "epg":"https://epg.imxd.top/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
  
  {     "name": "天天开心直播仓库🚀点此换仓库🚀",   "type": 0,   "url": "http://rihou.cc:55/lib/kx2024.txt",
@@ -660,8 +657,10 @@
  {"name":"萌苹果机直播仓库🚀点此换仓库🚀","type":0,"url":"https://git.acwing.com/javyou/db/-/raw/main/apple.txt",
 "playerType":1, "ua": "okhttp/3.12.13","epg":"https://epg.imxd.top/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},  
 
- {  "name": "范明明源直播仓库🚀点此换仓库🚀", 
+ {  "name": "范明明源直播仓库🚀点此换仓库🚀",
       "type": 0,      "url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType": 1,      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",  "logo": "https://live.fanmingming.com/tv/{name}.png"} 
-	]
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",  "logo": "https://live.fanmingming.com/tv/{name}.png"}
+  ]
+
+  
 }
