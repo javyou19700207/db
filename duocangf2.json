@@ -2,15 +2,16 @@
   "urls": [
 
    // 自己测试用
-
-   {        "url": "https://codeberg.org/javyou/1/raw/branch/main/LangeDanjd.json ",    "name": "简单源①🌟codeberg"   },
+    
+{        "url": "https://javyou.serv00.net/LangeDanjd.json ",    "name": "简单源①🌟serv00"   },
        
    {     "url": "https://d.kstore.dev/download/9015/javyoudan/LangeDanjd.json",     "name": "简单源②🌟KStore9"   },
     
-
+ 
+    
     {      "url": "https://d.kstore.dev/download/9015/javyoudan/LangeDan.json",      "name": "稳定源③🌟KStore9"    },
 
- {        "url": "https://codeberg.org/javyou/1/raw/branch/main/LangeDan.json ",    "name": "稳定源④🌟codeberg"   },
+ 
    
 {    "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/refs/heads/main/LangeDanjd.json",    "name": "简单源⑤🌟Ghubxyz"  },
 
@@ -18,7 +19,8 @@
   {      "url": "https://git.acwing.com/javyou/db/-/raw/main/LangeDanjd.json"  ,   "name": "简单源⑦🌟Acwing88"    },
       {      "url": "https://git.acwing.com/javyou/db/-/raw/main/LangeDan.json"  ,   "name": "稳定源⑧🌟Acwing88"    },
 
-       {      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/112.json",    "name": "弹幕⑨🌟GHUB"  },
+      {      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/112.json",    "name": "弹幕⑨🌟GHUB"  },
+
  
          // ①②③④⑤⑥⑦⑧⑨
          
@@ -51,9 +53,9 @@
       "url": "http://kxrj.site:55/天天开心",
       "name": "天天开心"
     },
-    {
-      "url": "https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master",
-      "name": "月牙猫春天下"
+     {
+      "url": "http://tv.999888987.xyz",
+      "name": "王二小放牛娃"
     },
     {
       "url": "http://meowtv.cn/tv",
