@@ -1,0 +1,25 @@
+[
+    {
+        "name": "影视ᴴᴰ在线更新",
+        "list": [
+            {
+                "name": "影视ᴴᴰ👉电视版",
+                "url": "http://wp.wadg.pro/down.php/5d6dde4f19a2ac7c88987ba1dc31a64f.apk",
+                "icon": "assets://三林影视.png",
+                "version": "2024.12.20修复4K无声音"
+            },
+            {
+                "name": "Boxᴴᴰ👉手机版",
+                "url": "http://wp.wadg.pro/down.php/ac960e14cb3116f51a60575d964e52df.apk",
+                "icon": "assets://lib/三林影视.png",
+                "version": "2024.12.20修复4K无声音"
+            },
+            {
+                "name": "酷九137👉直播版",
+                "url": "http://wp.wadg.pro/down.php/1348a8d9050f75d5f9f122c8d05c6e9f.apk",
+                "icon": "assets://ku9.png",
+                "version": "2024.12.05"
+            }
+        ]
+    },
+]
