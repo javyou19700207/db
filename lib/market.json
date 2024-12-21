@@ -4,20 +4,20 @@
     "list": [     
         {
         "name": "飞速影视",
-        "url": "",
+        "url": "https://d.kstore.dev/download/9015/javyoudan/jar/%E9%A3%9E%E9%80%9F%E5%BD%B1%E8%A7%86K8f3-2.6.5.apk",
         "icon": "https://javyou.serv00.net/lib/feisu.png",
         "version": "TV在线版"
       },
       {
         "name": "小易影视",
-        "url": "",
+        "url": "https://d.kstore.dev/download/9015/javyoudan/jar/%E5%B0%8F%E6%98%93%E5%BD%B1%E8%A7%86%E6%9C%AC%E5%9C%B0-2.6.5.apk",
         "icon": "https://javyou.serv00.net/lib/xiaoyi.png",
         "version": "TV本地版"
       },
       {
         "name": "萌新影视",
-        "url": "",
-        "icon": "https://javyou.serv00.net/lib/mxlogo.png",
+        "url": "https://d.kstore.dev/download/9015/javyoudan/jar/%E8%90%8C%E6%96%B0%E5%BD%B1%E8%A7%86%E6%9C%AC%E5%9C%B02.6.5.apk",
+        "icon": "https://javyou.serv00.net/lib/mengxin.png",
         "version": "手机在线版"
       }
     ]
