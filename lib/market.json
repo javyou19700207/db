@@ -3,22 +3,22 @@
     "name": "推荐",
     "list": [     
         {
-        "name": "欧歌助手",
-        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/欧歌助手.apk",
-        "icon": "https://api.dzzui.com/api/avatar",
-        "version": "手机版"
+        "name": "飞速影视",
+        "url": "",
+        "icon": "https://javyou.serv00.net/lib/feisu.png",
+        "version": "TV在线版"
       },
       {
-        "name": "微信赞助打赏",
-        "url": "http://wb.nxog.top:5244/d/移/软件/0.png",
-        "icon": "https://alicliimg.clewm.net/342/790/68790342/170832351526029731899cac9d8ca935cdc736eec31af1708323503.png",
-        "version": "感谢支持"
+        "name": "小易影视",
+        "url": "",
+        "icon": "https://javyou.serv00.net/lib/xiaoyi.png",
+        "version": "TV本地版"
       },
       {
-        "name": "公众号欧歌APP",
-        "url": "http://wb.nxog.top:5244/d/移/软件/wx.png",
-        "icon": "https://alicliimg.clewm.net/342/790/68790342/17088361435038ca103a5d9bd4661a38f9d63262b39ba1708836138.png",
-        "version": ""
+        "name": "萌新影视",
+        "url": "",
+        "icon": "https://javyou.serv00.net/lib/mxlogo.png",
+        "version": "手机在线版"
       }
     ]
   },
@@ -27,22 +27,22 @@
     "name": "本地包软件",
     "list": [
       {
-        "name": "欧歌助手",
-        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/欧歌助手.apk",
-        "icon": "https://api.dzzui.com/api/avatar",
-        "version": "手机版"
+        "name": "飞速影视",
+        "url": "",
+        "icon": "https://javyou.serv00.net/lib/feisu.png",
+        "version": "TV在线版"
       },
       {
-        "name": "微信赞助打赏",
-        "url": "http://wb.nxog.top:5244/d/移/软件/0.png",
-        "icon": "https://alicliimg.clewm.net/342/790/68790342/170832351526029731899cac9d8ca935cdc736eec31af1708323503.png",
-        "version": "感谢支持"
+        "name": "小易影视",
+        "url": "",
+        "icon": "https://javyou.serv00.net/lib/xiaoyi.png",
+        "version": "TV本地版"
       },
       {
-        "name": "公众号欧歌APP",
-        "url": "http://wb.nxog.top:5244/d/移/软件/wx.png",
-        "icon": "https://alicliimg.clewm.net/342/790/68790342/17088361435038ca103a5d9bd4661a38f9d63262b39ba1708836138.png",
-        "version": ""
+        "name": "萌新影视",
+        "url": "",
+        "icon": "https://javyou.serv00.net/lib/mxlogo.png",
+        "version": "手机在线版"
       }
     ]
   }
