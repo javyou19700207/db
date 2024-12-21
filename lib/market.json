@@ -1,6 +1,129 @@
-[   
+[
   {
-    "name": "软件",
+    "name": "推荐",
+    "list": [
+      {
+        "name": "微信赞助打赏",
+        "url": " ",
+        "icon": "https://alicliimg.clewm.net/342/790/68790342/170832351526029731899cac9d8ca935cdc736eec31af1708323503.png",
+        "version": "感谢支持"
+      },
+      {
+        "name": "公众号欧歌APP",
+        "url": " ",
+        "icon": "https://alicliimg.clewm.net/342/790/68790342/17088361435038ca103a5d9bd4661a38f9d63262b39ba1708836138.png",
+        "version": ""
+      }
+    ]
+  },
+  {
+    "name": "欧歌app推荐",
+    "list": [
+      {
+        "name": "欧歌影视",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/欧歌影视.apk",
+        "icon": "https://api.dzzui.com/api/avatar",
+        "version": "5.0.39"
+      },
+      {
+        "name": "欧歌影视V3",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/欧歌影视V3.apk",
+        "icon": "https://api.dzzui.com/api/avatar",
+        "version": "v3.0.32(安卓4专用)"
+      },
+      {
+        "name": "欧歌助手",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/欧歌助手.apk",
+        "icon": "https://api.dzzui.com/api/avatar",
+        "version": "手机版"
+      },
+      {
+        "name": "一键TOken",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/一键TOken.apk",
+        "icon": "https://api.dzzui.com/api/avatar",
+        "version": "手机版获取阿里和夸克TK"
+      },
+      {
+        "name": "阿里云盘",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/阿里云盘.apk",
+        "icon": "https://api.dzzui.com/api/avatar",
+        "version": "手机老板版"
+      },
+      {
+        "name": "欧歌api接口",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/欧歌api接口.apk",
+        "icon": "https://api.dzzui.com/api/avatar",
+        "version": "手机版"
+      },
+      {
+        "name": "微信赞助打赏",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/0.png",
+        "icon": "https://alicliimg.clewm.net/342/790/68790342/170832351526029731899cac9d8ca935cdc736eec31af1708323503.png",
+        "version": "感谢支持"
+      },
+      {
+        "name": "公众号欧歌APP",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/wx.png",
+        "icon": "https://alicliimg.clewm.net/342/790/68790342/17088361435038ca103a5d9bd4661a38f9d63262b39ba1708836138.png",
+        "version": ""
+      }
+    ]
+  },
+  {
+    "name": "常用工具",
+    "list": [
+      {
+        "name": "甲壳虫ADB助手",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/甲壳虫ADB助手.apk",
+        "icon": "https://api.dzzui.com/api/avatar",
+        "version": "手机版"
+      },
+      {
+        "name": "八爪鱼遥控TV版",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/八爪鱼遥控TV版.apk",
+        "icon": "https://api.dzzui.com/api/avatar",
+        "version": "TV版"
+      },
+      {
+        "name": "八爪鱼遥控手机版",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/八爪鱼遥控手机版.apk",
+        "icon": "https://api.dzzui.com/api/avatar",
+        "version": "手机版"
+      },
+      {
+        "name": "当贝桌面",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/当贝桌面.apk",
+        "icon": "https://api.dzzui.com/api/avatar",
+        "version": "TV版"
+      },
+      {
+        "name": "小白文件管理器TV版",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/小白文件管理器TV版.apk",
+        "icon": "https://api.dzzui.com/api/avatar",
+        "version": "TV版"
+      },
+      {
+        "name": "小米电视助手",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/小米电视助手.apk",
+        "icon": "https://api.dzzui.com/api/avatar",
+        "version": "手机版版"
+      },
+      {
+        "name": "微信赞助打赏",
+        "url": "http://wb.nxog.top:5244/d/移/软件/0.png",
+        "icon": "https://alicliimg.clewm.net/342/790/68790342/170832351526029731899cac9d8ca935cdc736eec31af1708323503.png",
+        "version": "感谢支持"
+      },
+      {
+        "name": "公众号欧歌APP",
+        "url": "http://wb.nxog.top:5244/d/移/软件/wx.png",
+        "icon": "https://alicliimg.clewm.net/342/790/68790342/17088361435038ca103a5d9bd4661a38f9d63262b39ba1708836138.png",
+        "version": ""
+      }
+    ]
+  },
+  {
+    "name": "本地包软件",
     "list": [
       {
         "name": "欧歌助手",
