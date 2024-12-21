@@ -22,7 +22,9 @@
       }
     ]
   },
- 
+ {
+    "name": "影视应用下载",
+    "list": [
   {
         "name": "飞速影视",
         "url": "https://d.kstore.dev/download/9015/javyoudan/jar/%E9%A3%9E%E9%80%9F%E5%BD%B1%E8%A7%86K8f3-2.6.5.apk",
