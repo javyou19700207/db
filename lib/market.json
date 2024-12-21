@@ -1,25 +1,29 @@
 [
-    {
-        "name": "影视ᴴᴰ在线更新",
-        "list": [
-            {
-                "name": "影视ᴴᴰ👉电视版",
-                "url": "http://wp.wadg.pro/down.php/5d6dde4f19a2ac7c88987ba1dc31a64f.apk",
-                "icon": "assets://三林影视.png",
-                "version": "2024.12.20修复4K无声音"
-            },
-            {
-                "name": "Boxᴴᴰ👉手机版",
-                "url": "http://wp.wadg.pro/down.php/ac960e14cb3116f51a60575d964e52df.apk",
-                "icon": "assets://lib/三林影视.png",
-                "version": "2024.12.20修复4K无声音"
-            },
-            {
-                "name": "酷九137👉直播版",
-                "url": "http://wp.wadg.pro/down.php/1348a8d9050f75d5f9f122c8d05c6e9f.apk",
-                "icon": "assets://ku9.png",
-                "version": "2024.12.05"
-            }
-        ]
-    }
+  {
+    "name": "推荐",
+    "list": [
+     
+  {
+    "name": "软件",
+    "list": [
+      {
+        "name": "欧歌助手",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/欧歌助手.apk",
+        "icon": "https://api.dzzui.com/api/avatar",
+        "version": "手机版"
+      },
+      {
+        "name": "微信赞助打赏",
+        "url": "http://wb.nxog.top:5244/d/移/软件/0.png",
+        "icon": "https://alicliimg.clewm.net/342/790/68790342/170832351526029731899cac9d8ca935cdc736eec31af1708323503.png",
+        "version": "感谢支持"
+      },
+      {
+        "name": "公众号欧歌APP",
+        "url": "http://wb.nxog.top:5244/d/移/软件/wx.png",
+        "icon": "https://alicliimg.clewm.net/342/790/68790342/17088361435038ca103a5d9bd4661a38f9d63262b39ba1708836138.png",
+        "version": ""
+      }
+    ]
+  }
 ]
