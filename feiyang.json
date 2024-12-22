@@ -10,10 +10,10 @@
 {"key":"直播转点播","name":"转直播👉选择源↙进入","type": 3,"searchable":0,
   "api":"assets://lib/live2vod.js",
   "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/zbzdblist.txt"},
-    {"key": "应用商店","name": "🛒影视应用商店","type": 3,
-"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/jar/xx.jar",
+   {"key": "应用商店","name": "🛒影视应用商店","type": 3,
+"jar":"https://javyou.serv00.net/jar/xx.jar",
 "api": "csp_Market","searchable": 0,"changeable": 0,
-  "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/market.json"},
+  "ext": "https://javyou.serv00.net/lib/market.json"},
 
  {  "key": "alllive",     "name": "📽️一直播┃直播",     "type": 3,  "jar": "assets://lib/fty241108.jar",   "api": "csp_Alllive",
       "playerType": 2,      "searchable": 0,      "quickSearch": 0,      "changeable": 0   },
