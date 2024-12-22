@@ -131,6 +131,15 @@
 ],
   
 "lives": [
+	 {
+      "name": "💝浪子USkg直播仓库🚀点此换仓库🚀",
+      "type": 0,
+      "url": "https://javyou.us.kg/codeok.json",
+     "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+  "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"} ,     
+        
 	{
       "name": "💝浪子Serv00直播仓库🚀点此换仓库🚀",
       "type": 0,
@@ -139,14 +148,7 @@
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
   "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"} ,     
-  {
-      "name": "💝浪子K9直播仓库🚀点此换仓库🚀",
-      "type": 0,
-      "url": "https://d.kstore.dev/download/9015/javyoudan/codeok.json",
-     "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-  "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"} ,     
+  
    
 
 {
