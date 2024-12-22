@@ -637,6 +637,14 @@
 
 
   "lives": [
+       {
+      "name": "💝浪子USkg直播仓库🚀点此换仓库🚀",
+      "type": 0,
+      "url": "https://javyou.us.kg/codeok.json",
+     "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+  "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"} ,     
         {
       "name": "💝浪子Serv00直播仓库🚀点此换仓库🚀",
       "type": 0,
@@ -645,24 +653,14 @@
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
   "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"} ,     
-
- {     "name": "💝浪子K9直播仓库🚀点此换仓库🚀",    "type": 0,
-      "url": "https://d.kstore.dev/download/9015/javyoudan/codeok.json",
-     "playerType": 1,  "ua": "okhttp/3.15",    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-  "logo": "https://live.fanmingming.com/tv/{name}.png"} ,     
+ 
+        
 
 {     "name": "猫影视直播仓库🚀点此换仓库🚀",     "type": 0,     "url": "http://rihou.cc:555/gggg.nzk ",
     "epg":"https://epg.imxd.top/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
  
  {     "name": "天天开心直播仓库🚀点此换仓库🚀",   "type": 0,   "url": "http://rihou.cc:55/lib/kx2024.txt",
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",    "logo": "https://live.fanmingming.com/tv/{name}.png" },
-    {     "name": "三林仓库🚀点此换仓库🚀",   "type": 0,
-      "url": "https://jxnklgb.serv00.net/ku9/live/live.txt",
-      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",  
-        "logo": "https://live.fanmingming.com/tv/{name}.png" },
-  
-  {    "name": "恒星直播仓库🚀点此换仓库🚀",    "type": 0,      "url": "http://yuhuahx.com/dsj66.txt",
-      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",      "logo": "https://live.fanmingming.com/tv/{name}.png" },     
    
 {"name":"欧歌直播仓库🚀点此换仓库🚀","type":0,"url":"https://tv.nxog.top/m/tv/","playerType":1, "ua": "okhttp/3.12.13",
 "epg":"https://epg.imxd.top/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
