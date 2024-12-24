@@ -15,10 +15,11 @@
 {"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/zbzdb1.js",  "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/zbzdblist.txt",
    "filterable":0,  "key":"直转点播","name":"电视合集┃直播","quickSearch":0,"searchable":1,"type":3},
 
-	{"key": "应用商店","name": "🛒影视应用商店","type": 3,
-"jar":"https://javyou.serv00.net/jar/xx.jar",
+	 {"key": "应用商店","name": "🛒影视应用商店","type": 3,
+"jar":"https://javyou.us.kg/jar/xx.jar",
 "api": "csp_Market","searchable": 0,"changeable": 0,
   "ext": "https://javyou.serv00.net/lib/market.json"},
+
 
      {  "key": "alllive",     "name": "📽️一直播┃直播",     "type": 3,     "api": "csp_Alllive",
       "playerType": 2,      "searchable": 0,      "quickSearch": 0,      "changeable": 0   },
