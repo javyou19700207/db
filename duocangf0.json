@@ -3,22 +3,23 @@
 
 // 给低版本安卓机V4 专用---------用不了，弃
     
-   {     "url": "https://d.kstore.dev/download/9015/javyoudan/LangeDanjd.json",     "name": "简单源①🌟KStore9"   },
+  {     "url": "https://javyou.us.kg/LangeDanjd.json",     "name": "简单源①①🌟us.kg"   },
+ {    "url": "https://javyou.us.kg/LangeDan.json",      "name": "稳定源①②🌟us.kg"    },  
+ { "url": "https://javyou.us.kg/feiyang.json",  "name": "半本地①③🌟US.kg"  },
+         
+
+  {    "url": "https://javyou.serv00.net/LangeDanjd.json ",    "name": "简单源②①🌟serv00"   },
+ {   "url": "https://javyou.serv00.net/LangeDan.json ",    "name": "稳定源②②🌟serv00"   },                     
+  { "url": "https://javyou.serv00.net/feiyang.json",  "name": "半本地②③🌟Serv00"  },
     
-    {      "url": "https://git.acwing.com/javyou/db/-/raw/main/LangeDanjd.json"  ,   "name": "简单源④🌟Acwing88"    },
+    {    "url": "https://8684.kstore.space/javyoudan/LangeDan.json",       "name": "稳定源③①🌟KStore8"   }, 
+  
+   
+{    "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/refs/heads/main/LangeDanjd.json",    "name": "简单源④①🌟Ghubxyz"  },
 
-      {      "url": "https://d.kstore.dev/download/9015/javyoudan/LangeDan.json",      "name": "稳定源③🌟KStore9"    },
-
-
-      {      "url": "https://git.acwing.com/javyou/db/-/raw/main/LangeDan.json"  ,   "name": "稳定源②🌟Acwing88"    },
-
-       {      "url": "https://git.acwing.com/javyou/db/-/raw/main/112.json",    "name": "稳定源 ⑥🌟弹幕Acw"  },
-    
-//     {     "url": "https://gitea.com/javy/1/raw/branch/main/jdfm.json",    "name": "FM源⑤ 🌟gitea"  },
-
-//   {      "url": "https://gitea.com/javy/1/raw/branch/main/jd.json",    "name": "FT源⑦🌟gitea"  },
-
- {    "url": "https://ghp.ci/https://raw.githubusercontent.com/javyou19700207/db/refs/heads/main/LangeDan.json",    "name": "稳定源⑥🌟Ghub"  },
+     {    "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/refs/heads/main/LangeDan.json",    "name": "稳定源④②🌟Ghubxyz"  },
+ 
+      {      "url": "https://javyou.us.kg/112.json",    "name": "弹幕①④🌟US.kg"  },
 
     
  
