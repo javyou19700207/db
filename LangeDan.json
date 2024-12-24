@@ -71,10 +71,11 @@
   
   {"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/lib/zbzdb1.js",  "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/zbzdblist.txt",
    "filterable":0,  "key":"直转点播","name":"电视合集┃直播","quickSearch":0,"searchable":1,"type":3},
-	{"key": "应用商店","name": "🛒影视应用商店","type": 3,
-"jar":"https://javyou.serv00.net/jar/xx.jar",
+	 {"key": "应用商店","name": "🛒影视应用商店","type": 3,
+"jar":"https://javyou.us.kg/jar/xx.jar",
 "api": "csp_Market","searchable": 0,"changeable": 0,
   "ext": "https://javyou.serv00.net/lib/market.json"},
+
   
   {"key":"萌米","name":"💡萌米┃影视","type":3,"api":"csp_AppTT","timeout":15,"ua": "okhttp/3.15","playerType":1, "jar": 
 "https://gitee.com/javyouou/db/raw/master/jar/tianwei20240603.jar","ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},  
