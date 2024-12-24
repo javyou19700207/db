@@ -2687,48 +2687,24 @@ CCTV12,http://127.0.0.1:35456/itv/1000000001000032494.m3u8?cdn=ystenlive$肥羊3
 CCTV14,http://127.0.0.1:35456/itv/1000000001000008170.m3u8?cdn=ystenlive$肥羊3
 CCTV17,http://127.0.0.1:35456/itv/1000000006000268004.m3u8?cdn=ystenlive$肥羊3
 
-CCTV1,http://127.0.0.1:35456/ysptp/cctv1.m3u8$肥羊高
-CCTV2,http://127.0.0.1:35456/ysptp/cctv2.m3u8$肥羊高
-CCTV3,http://127.0.0.1:35456/ysptp/cctv3.m3u8$肥羊高
-CCTV4,http://127.0.0.1:35456/ysptp/cctv4.m3u8$肥羊高
-CCTV5,http://127.0.0.1:35456/ysptp/cctv5.m3u8$肥羊高
-CCTV5+,http://127.0.0.1:35456/ysptp/cctv5p.m3u8$肥羊高
-CCTV6,http://127.0.0.1:35456/itv/6000000001000004574.m3u8?cdn=wasusyt$肥羊4
-CCTV7,http://127.0.0.1:35456/ysptp/cctv7.m3u8$肥羊高
-CCTV8,http://127.0.0.1:35456/ysptp/cctv8.m3u8$肥羊高
-CCTV9,http://127.0.0.1:35456/ysptp/cctv9.m3u8$肥羊高
-CCTV10,http://127.0.0.1:35456/ysptp/cctv10.m3u8$肥羊高
-CCTV11,http://127.0.0.1:35456/ysptp/cctv11.m3u8$肥羊高
-CCTV12,http://127.0.0.1:35456/ysptp/cctv12.m3u8$肥羊高
-CCTV13,http://127.0.0.1:35456/ysptp/cctv13.m3u8$肥羊高
-CCTV14,http://127.0.0.1:35456/ysptp/cctv14.m3u8$肥羊高
-CCTV15,http://127.0.0.1:35456/ysptp/cctv15.m3u8$肥羊高
-CCTV16,http://127.0.0.1:35456/ysptp/cctv16.m3u8$肥羊高
-CCTV17,http://127.0.0.1:35456/ysptp/cctv17.m3u8$肥羊高
-
-CCTV1,http://127.0.0.1:35456/tptv/G_CCTV-1-AVS-4K264.m3u8$tptv肥羊
-CCTV2,http://127.0.0.1:35456/tptv/G_CCTV-2-HD-265-8M.m3u8$tptv肥羊
-CCTV3,http://127.0.0.1:35456/tptv/G_CCTV-3-AVS-4K264.m3u8$tptv肥羊
-CCTV4,http://127.0.0.1:35456/tptv/G_CCTV-4-HD-265-8M.m3u8$tptv肥羊
-CCTV5,http://127.0.0.1:35456/tptv/G_CCTV-5-AVS-4K264.m3u8$tptv肥羊
-CCTV5+,http://127.0.0.1:35456/tptv/G_CCTV-5PLUS-HD-265-8M.m3u8$tptv肥羊
-CCTV6,http://127.0.0.1:35456/tptv/G_CCTV-6-AVS-4K264.m3u8$tptv肥羊
-CCTV7,http://127.0.0.1:35456/tptv/G_CCTV-7-HD-265-8M.m3u8$tptv肥羊
-CCTV8,http://127.0.0.1:35456/tptv/G_CCTV-8-AVS-4K264.m3u8$tptv肥羊
-CCTV9,http://127.0.0.1:35456/tptv/G_CCTV-9-HQ.m3u8$tptv肥羊
-CCTV10,http://127.0.0.1:35456/tptv/G_CCTV-10-HD-265-8M.m3u8$tptv肥羊
-CCTV11,http://127.0.0.1:35456/tptv/H265-5500k-1080P-cctv11.m3u8$tptv肥羊
-CCTV12,http://127.0.0.1:35456/tptv/G_CCTV-12-HD-265-8M.m3u8$tptv肥羊
-CCTV13,http://127.0.0.1:35456/tptv/G_CCTV-13-HQ.m3u8$tptv肥羊
-CCTV14,http://127.0.0.1:35456/tptv/G_CCTV-14-CQ.m3u8$tptv肥羊
-CCTV15,http://127.0.0.1:35456/tptv/H265-5500k-1080P-cctv15.m3u8$tptv肥羊
-CCTV16,http://127.0.0.1:35456/tptv/G_CCTV-16-CQ.m3u8$tptv肥羊
-CCTV16,http://127.0.0.1:35456/tptv/G_CCTV-16-4K.m3u8$tptv肥羊
-CCTV17,http://127.0.0.1:35456/tptv/G_CCTV-17-CQ.m3u8$tptv肥羊
-CCTV4k,http://127.0.0.1:35456/tptv/G_CCTV-4K-HD.m3u8$tptv肥羊
-CCTV7,http://127.0.0.1:35456/tptv/GITV-JS-29.m3u8$tptv肥羊
-CCTV11,http://127.0.0.1:35456/tptv/GITV-JS-23.m3u8$tptv肥羊
-CCTV15,http://127.0.0.1:35456/tptv/GITV-JS-33.m3u8$tptv肥羊
+CCTV1,http://127.0.0.1:35456/gaoma/cctv1.m3u8$新高码
+CCTV2,http://127.0.0.1:35456/gaoma/cctv2.m3u8$新高码
+CCTV3,http://127.0.0.1:35456/gaoma/cctv3.m3u8$新高码
+CCTV4,http://127.0.0.1:35456/gaoma/cctv4.m3u8$新高码
+CCTV5,http://127.0.0.1:35456/gaoma/cctv5.m3u8$新高码
+CCTV5+,http://127.0.0.1:35456/gaoma/cctv5p.m3u8$新高码
+CCTV6,http://127.0.0.1:35456/itv/6000000001000004574.m3u8?cdn=wasusyt
+CCTV7,http://127.0.0.1:35456/gaoma/cctv7.m3u8$新高码
+CCTV8,http://127.0.0.1:35456/gaoma/cctv8.m3u8$新高码
+CCTV9,http://127.0.0.1:35456/gaoma/cctv9.m3u8$新高码
+CCTV10,http://127.0.0.1:35456/gaoma/cctv10.m3u8$新高码
+CCTV11,http://127.0.0.1:35456/gaoma/cctv11.m3u8$新高码
+CCTV12,http://127.0.0.1:35456/gaoma/cctv12.m3u8$新高码
+CCTV13,http://127.0.0.1:35456/gaoma/cctv13.m3u8$新高码
+CCTV14,http://127.0.0.1:35456/gaoma/cctv14.m3u8$新高码
+CCTV15,http://127.0.0.1:35456/gaoma/cctv15.m3u8$新高码
+CCTV16,http://127.0.0.1:35456/gaoma/cctv16.m3u8$新高码
+CCTV17,http://127.0.0.1:35456/gaoma/cctv17.m3u8$新高码
 
 
 湖南卫视,http://127.0.0.1:35456/itv/1000000005000265024.m3u8?cdn=ystenlive$ITV HEVC
@@ -6608,7 +6584,8 @@ Y+剧场台,http://kxrj.site:998/123/mg.php?id=yjjc
 PXP💝专用,#genre#
 CCTV11,P2p://starvod.xyz:19806/041e52a7862c4f3d905c2cbef4b8ed7d
 
-央卫💝V4测试,#genre#
+央卫💝测试,#genre#
+
 
 
 
