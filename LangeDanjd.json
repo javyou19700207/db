@@ -16,7 +16,7 @@
    "filterable":0,  "key":"直转点播","name":"电视合集┃直播","quickSearch":0,"searchable":1,"type":3},
 
 	 {"key": "应用商店","name": "🛒影视应用商店","type": 3,
-"jar":"https://javyou.us.kg/jar/xx.jar",
+"jar":"https://80318188.xyz/jar//xx.jar",
 "api": "csp_Market","searchable": 0,"changeable": 0,
   "ext": "https://javyou.serv00.net/lib/market.json"},
 
@@ -133,9 +133,9 @@
   
 "lives": [
 	 {
-      "name": "💝浪子USkg直播仓库🚀点此换仓库🚀",
+      "name": "💝浪子xyz直播仓库🚀点此换仓库🚀",
       "type": 0,
-      "url": "https://javyou.us.kg/codeok.json",
+      "url": "https://80318188.xyz/codeok.json",
      "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -166,16 +166,6 @@
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png" },
       
-   {     "name": "三林仓库🚀点此换仓库🚀",   "type": 0,
-      "url": "https://jxnklgb.serv00.net/ku9/live/live.txt",
-      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",  
-        "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png" },
-  {
-      "name": "恒星直播仓库🚀点此换仓库🚀",
-      "type": 0,
-      "url": "http://yuhuahx.com/dsj66.txt",
-      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png" },     
    
 {"name":"欧歌直播仓库🚀点此换仓库🚀",
 "type":0,
