@@ -1,21 +1,16 @@
 [
-
- {
+  {
     "name": "Serv源",
     "url": "https://javyou.serv00.net/codeok.json"
   },
-  
- {
-    "name": "USkg源",
-    "url": "https://javyou.us.kg/codeok.json"
+  {
+    "name": "xyz源",
+    "url": "https://80318188.xyz/codeok.json"
   },
- 
- 
   {
     "name": "天天开心",
     "url": "http://rihou.cc:55/lib/kx2024.txt"
   },
-  
   {
     "name": "Ghub源",
     "url": "https://github.moeyy.xyz//https://raw.githubusercontent.com/javyou19700207/db/main/codeok.json"
