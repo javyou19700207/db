@@ -132,16 +132,17 @@
 ],
   
 "lives": [
-	 {
-      "name": "💝浪子xyz直播仓库🚀点此换仓库🚀",
+
+ {
+      "name": "💝浪子XYZ直播仓库🚀点此换仓库🚀",
       "type": 0,
       "url": "https://80318188.xyz/codeok.json",
      "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
   "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"} ,     
-        
-	{
+
+  {
       "name": "💝浪子Serv00直播仓库🚀点此换仓库🚀",
       "type": 0,
       "url": "https://javyou.serv00.net/codeok.json",
@@ -149,9 +150,7 @@
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
   "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"} ,     
-  
-   
-
+ 
 {
       "name": "猫影视直播仓库🚀点此换仓库🚀",
       "type": 0,
@@ -165,7 +164,20 @@
       "url": "http://rihou.cc:55/lib/kx2024.txt",
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png" },
-      
+
+ {
+      "name": "码点干货直播仓库🚀点此换仓库🚀",
+      "type": 0,
+      "url": "http://mdxgh.tpddns.cn:9999/new/mdzb.txt",
+      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png" },
+ {
+      "name": "黑金直播仓库🚀点此换仓库🚀",
+      "type": 0,
+      "url": "http://8.138.7.223/live.txt",
+      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png" },      
+  
    
 {"name":"欧歌直播仓库🚀点此换仓库🚀",
 "type":0,
@@ -182,13 +194,9 @@
 "epg":"https://epg.imxd.top/?ch={name}&date={date}",
 "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"},  
  
-     {  "name": "范明明源直播仓库🚀点此换仓库🚀", 
-      "type": 0,
-      "url":"https://fanmingming.com/txt?url=https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u ",
- "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-  "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"} 
+     {  "name": "范明明源直播仓库🚀点此换仓库🚀",
+      "type": 0,      "url":"https://fanmingming.com/txt?url=https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u ","playerType": 1,      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",  "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"}
   ],
 
     
