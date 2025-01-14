@@ -682,7 +682,13 @@
       "url": "http://8.138.7.223/live.txt",
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png" },      
-  
+  {
+      "name": "三林直播仓库🚀点此换仓库🚀",
+      "type": 0,
+      "url": "http://jxnklgb.serv00.net/ku9.php ",
+      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png" },      
+
    
 {"name":"欧歌直播仓库🚀点此换仓库🚀",
 "type":0,
