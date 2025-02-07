@@ -12,8 +12,8 @@
     "url": "http://rihou.cc:55/lib/kx2024.txt"
   },
   {
-    "name": "Ghub源",
-    "url": "https://github.moeyy.xyz//https://raw.githubusercontent.com/javyou19700207/db/main/codeok.json"
+    "name": "黑金直播源",
+    "url": "http://8.138.7.223/live.txt"
   },
   {
     "name": "范明明源",
