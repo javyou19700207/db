@@ -11,9 +11,9 @@
   "api":"assets://lib/live2vod.js",
   "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/javyou19700207/db/main/zbzdblist.txt"},
    {"key": "应用商店","name": "🛒影视应用商店","type": 3,
-"jar":"https://80318188.xyz/jar/xx.jar",
+"jar":"http://80318188.xyz/jar/xx.jar",
 "api": "csp_Market","searchable": 0,"changeable": 0,
-  "ext": "https://80318188.xyz/lib/market.json"},
+  "ext": "http://80318188.xyz/lib/market.json"},
 
  {  "key": "alllive",     "name": "📽️一直播┃直播",     "type": 3,  "jar": "assets://lib/fty241108.jar",   "api": "csp_Alllive",
       "playerType": 2,      "searchable": 0,      "quickSearch": 0,      "changeable": 0   },
@@ -641,7 +641,7 @@
  {
       "name": "💝浪子XYZ直播仓库🚀点此换仓库🚀",
       "type": 0,
-      "url": "https://80318188.xyz/codeok.json",
+      "url": "http://80318188.xyz/codeok.json",
      "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
