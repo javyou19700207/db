@@ -5,7 +5,7 @@
   },
   {
     "name": "xyz源",
-    "url": "https://80318188.xyz/codeok.json"
+    "url": "http://80318188.xyz/codeok.json"
   },
   {
     "name": "天天开心",
